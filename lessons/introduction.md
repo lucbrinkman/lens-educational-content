@@ -16,6 +16,7 @@ from:: 0:00
 # Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
+
 instructions::
 TLDR of what the user just watched:
 Humans dominate Earth because general intelligence enabled cumulative knowledge.
