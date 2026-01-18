@@ -7,7 +7,7 @@ source:: [[video_transcripts/fa8k8IQ1_X0_A.I._‐_Humanity's_Final_Invention]]
 
 ## Text
 content::
-!# Welcome to AI Safety
+!# Welcome to AI Safetys
 
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
