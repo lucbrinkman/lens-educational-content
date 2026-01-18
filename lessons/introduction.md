@@ -3,8 +3,7 @@ slug: introduction
 title: Introduction
 ---
 
-# Video: 
-// A.I. - Humanity's Final Invention
+# Video: A.I. - Humanity's Final Invention
 source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
