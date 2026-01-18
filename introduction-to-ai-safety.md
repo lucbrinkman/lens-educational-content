@@ -7,7 +7,7 @@ source:: [[video_transcripts/fa8k8IQ1_X0]]
 
 ## Text
 content::
-!# Welcome to AI Safetysss
+!# Welcome to AI Safety
 
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
