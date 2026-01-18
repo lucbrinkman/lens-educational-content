@@ -1,5 +1,5 @@
 ---
-slug: introduction-to-ai-safety // test # test
+slug: introduction-to-ai-safety # test
 title: Introduction to AI Safety
 ---
 # Video: A.I. - Humanity's Final Invention
