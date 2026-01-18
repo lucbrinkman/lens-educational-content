@@ -24,7 +24,7 @@ content::
 **Reflection:**
 
 The video describes how humans dominate Earth because of our general
-intelligence. It also explains the difference between narrow AI and AGI. In your own words, what is narrow
+intelligence. It also explains the difference between narrow AI and AGI. In your own words, what is the difference between narrow and general intelligence?
 
 ## Chat
 showUserPreviousContent:: true
