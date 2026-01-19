@@ -3,7 +3,7 @@ slug: introduction-to-ai-safety
 title: Introduction to AI Safety
 ---
 # Video: A.I. - Humanity's Final Invention
-source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
