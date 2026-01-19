@@ -27,9 +27,8 @@ Discussion topics to explore:
 - What's the difference between narrow AI (like ChatGPT) and AGI?
 - How could an "intelligence explosion" happen through recursive self-improvement?
 
-Start by asking what stood out or surprised them. Use Socratic questioning to
-check their understanding of these concepts. Don't lecture—help them articulate
-their own thinking.
+Use Socratic questioning to
+check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
 
 # Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
