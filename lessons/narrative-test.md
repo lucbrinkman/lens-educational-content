@@ -4,16 +4,16 @@ title: Introduction to AI Safety
 ---
 
 # Text
-contet
-# Video: A.I. - Humanity's Final Invention
-source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
-
-## Text
 content::
 !# Welcome to AI Safety
 
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
+# Video: A.I. - Humanity's Final Invention
+source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+
+## Text
+content::
 
 Watch this video from Kurzgesagt to understand why artificial intelligence
 might be humanity's most important invention.
