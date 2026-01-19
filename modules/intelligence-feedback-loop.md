@@ -8,7 +8,7 @@ source:: [[../articles/intelligence-feedback-loop-lesson-intro]]
 ## Article-excerpt
 
 # Article: Most Important Century - Feedback Loop
-source:: [[articles/karnofsky-most-important-century]]
+source:: [[../articles/karnofsky-most-important-century]]
 
 ## Article-excerpt
 from:: "## The long-run future could come much faster than we think"
@@ -21,7 +21,7 @@ instructions::
 The user just read about the intelligence feedback loop and recursive self-improvement. Check their understanding of the core dynamics: why intelligence makes it easier to create more intelligence, and the implications for AI development timelines.
 
 # Article: Takeoff Speeds
-source:: [[articles/paul-christiano-takeoff-speeds]]
+source:: [[../articles/paul-christiano-takeoff-speeds]]
 
 ## Article-excerpt
 
