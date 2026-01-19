@@ -2,14 +2,13 @@
 slug: introduction
 title: Introduction
 ---
-
+# Text
+content::
+We begins by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 # Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
-## Text
-content::
-Wee begins by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.s
-Hello world.
+
 
 
 ## Video-excerpt
