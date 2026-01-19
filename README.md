@@ -18,7 +18,8 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ## Important
 
-- **Never commit directly to the Lens Educational Content repo on Github** - All changes must come through Relay
+- **Never commit directly to the Lens Educational Content repo on Github** - All changes must come through Relay.
+- That includes staging a
 - Only Relay is authorized to push to `staging`
 
 ## Structure
