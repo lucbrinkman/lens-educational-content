@@ -73,5 +73,5 @@ jobs:
       - name: Validate lesson format
         if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
         run: |
-          curl -sO https://raw.githubusercontent.com/lucbrinkman/ai-safety-course-platform/main/core/lessons/markdown_validator.py
+          curl -sO https://raw.githubusercontent.com/lucbrinkman/ai-safety-course-platform/staging/core/lessons/markdown_validator.py
           python markdown_validator.py ./modules/ ./courses/
