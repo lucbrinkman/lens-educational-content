@@ -43,6 +43,8 @@ We continue with an overview of the main concepts regarding AI as a source of ex
 
 ## Article-excerpt
 
+## Text
+content::
 ## Chat: Discussion on X-Risk
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
