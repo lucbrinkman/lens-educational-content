@@ -7,7 +7,7 @@ title: AI Safety Course
 
 # Meeting: 1
 
-# Lesson: [[lessons/coming-soon]]
+# Lesson: [[../../_/node_modules/remove-markdown/index.js]]
 
 # Lesson: [[lessons/coming-soon]]
 
