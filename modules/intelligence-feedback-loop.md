@@ -4,8 +4,7 @@ title: Intelligence Feedback Loop
 ---
 
 # Article: Introduction
-source:: [[articles/intelligence-feedback-loop-lesson-intro]]
-[[../articles/intelligence-feedback-loop-lesson-intro]]
+source:: [[../articles/intelligence-feedback-loop-lesson-intro]]
 ## Article-excerpt
 
 # Article: Most Important Century - Feedback Loop
