@@ -1,0 +1,77 @@
+name: Validate modules
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:  # Manual "Run workflow" button
+  schedule:
+    - cron: '* * * * *'  # Every minute
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'pull_request' && github.head_ref || 'staging' }}
+          fetch-depth: 2
+
+      - name: Check if should run (for scheduled runs)
+        id: check
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Get timestamp of last commit (seconds since epoch)
+          LAST_COMMIT=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          COMMIT_AGE=$((NOW - LAST_COMMIT))
+
+          echo "Last commit was $COMMIT_AGE seconds ago"
+
+          # Skip if last commit was less than 5 minutes ago (still editing)
+          if [ $COMMIT_AGE -lt 300 ]; then
+            echo "Last commit was less than 5 minutes ago, skipping"
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Check when the last successful validation ran
+          LAST_RUN=$(gh run list --workflow=validate.yaml --status=success --limit=1 --json createdAt --jq '.[0].createdAt // empty')
+
+          if [ -n "$LAST_RUN" ]; then
+            LAST_RUN_EPOCH=$(date -d "$LAST_RUN" +%s)
+            RUN_AGE=$((NOW - LAST_RUN_EPOCH))
+            echo "Last successful run was $RUN_AGE seconds ago"
+
+            # Skip if last successful run was less than 1 hour ago
+            if [ $RUN_AGE -lt 3600 ]; then
+              echo "Already ran successfully within the last hour, skipping"
+              echo "should_run=false" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+          else
+            echo "No previous successful runs found"
+          fi
+
+          # Check if there were any commits since the last successful run
+          if [ -n "$LAST_RUN" ] && [ $LAST_COMMIT -lt $LAST_RUN_EPOCH ]; then
+            echo "No new commits since last successful run, skipping"
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "Running validation"
+          echo "should_run=true" >> $GITHUB_OUTPUT
+
+      - name: Set up Python
+        if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate lesson format
+        if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
+        run: |
+          curl -sO https://raw.githubusercontent.com/lucbrinkman/ai-safety-course-platform/staging/core/lessons/markdown_validator.py
+          python markdown_validator.py ./modules/ ./courses/
