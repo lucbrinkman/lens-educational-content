@@ -97,8 +97,7 @@ Discussion topics to explore:
 - What's the flaw in "human-AI teams will keep things safe"?
 - How does the video respond to the "overpopulation on Mars" analogy?
 
-This is a good stage to surface any remaining skepticism they have. Engage with
-their doubts constructively rather than dismissing them.
+This is a good stage to surface any remaining skepticism they have. Engage with their doubts constructively rather than dismissing them.
 
 # Article: Four Background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
