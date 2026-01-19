@@ -8,7 +8,7 @@ source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
+Wee begins by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanities.
 
 ## Video-excerpt
 from:: 0:00
