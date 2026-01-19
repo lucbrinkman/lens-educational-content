@@ -10,7 +10,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 1. **Edit in Obsidian** - All content is authored in Obsidian
 2. **Auto-sync to staging** - Relay automatically syncs changes to the `staging` branch
-	- The staging branch is used directly by our staging website. Changed made in
+	- The staging branch is used directly by our staging website. Changed made in Obsidian should be reflected on the website after 20s or so.
 3. **Create PR** - Manually open a pull request from `staging` to `main`
 4. **Validation** - GitHub Actions validates lesson format and wiki-links
 5. **Merge to main** - Once checks pass, squash and merge to `main`
