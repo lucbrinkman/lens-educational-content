@@ -9,7 +9,10 @@ We begin by examining the potential of AI and the risks and opportunities that t
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 ## Video-excerpt
 
-# Chat: Discussion on AI Basics
+## Text
+content::
+What surprised you or stood out to you while watching this video?sd
+## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 
@@ -27,9 +30,9 @@ Discussion topics to explore:
 - What's the difference between narrow AI (like ChatGPT) and AGI?
 - How could an "intelligence explosion" happen through recursive self-improvement?
 
-Start by asking what stood out or surprised them. Use Socratic questioning to
-check their understanding of these concepts. Don't lecture—help them articulate
-their own thinking.
+Use Socratic questioning to check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
+
+The user has just answered the following question: "What surprised you or stood out to you while watching this video?"
 
 # Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
@@ -40,7 +43,10 @@ We continue with an overview of the main concepts regarding AI as a source of ex
 
 ## Article-excerpt
 
-# Chat: Discussion on X-Risk
+## Text
+content::
+In your own words, what is instrumental convergence?
+## Chat: Discussion on X-Risk
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 instructions::
@@ -62,6 +68,8 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain instrumental
 convergence in their own words—it's a key concept.
 
+The user has just answered the following question: "In your own words, what is instrumental convergence?"
+
 # Video: 10 Reasons to Ignore AI Safety
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
@@ -69,7 +77,10 @@ source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 from:: 0:00
 to:: 14:48
 
-# Chat: Discussion on Objections
+## Text
+content::
+Which objection stood out most to you?
+## Chat: Discussion on Objections
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 instructions::
@@ -86,8 +97,7 @@ Discussion topics to explore:
 - What's the flaw in "human-AI teams will keep things safe"?
 - How does the video respond to the "overpopulation on Mars" analogy?
 
-This is a good stage to surface any remaining skepticism they have. Engage with
-their doubts constructively rather than dismissing them.
+This is a good stage to surface any remaining skepticism they have. Engage with their doubts constructively rather than dismissing them.
 
 # Article: Four Background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
