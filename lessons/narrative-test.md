@@ -3,6 +3,8 @@ slug: narrative-test
 title: Introduction to AI Safety
 ---
 
+# Text
+contet
 # Video: A.I. - Humanity's Final Invention
 source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
@@ -10,7 +12,7 @@ source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 content::
 !# Welcome to AI Safety
 
-We beginss by examining the potential of AI and the risks and opportunities
+We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
 
 Watch this video from Kurzgesagt to understand why artificial intelligence
