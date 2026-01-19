@@ -9,8 +9,6 @@ source_url: https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intel
 
 [![Image 5|250x167](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AI_Time_Torizons_Are_Doubling_Every_4_Months.png/250px-AI_Time_Torizons_Are_Doubling_Every_4_Months.png)](https://en.wikipedia.org/wiki/File:AI_Time_Torizons_Are_Doubling_Every_4_Months.png)
 
-
-
 A plot showing the length of software engineering tasks achievable by leading AI models with a 50% success rate; the data suggests an exponential rise.<sup>[[5]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-5)</sup>
 
 One argument for the validity of this concern and the importance of this risk references how [human beings](https://en.wikipedia.org/wiki/Human_species "Human species") dominate other species because the [human brain](https://en.wikipedia.org/wiki/Human_brain "Human brain") possesses distinctive capabilities other animals lack. If AI were to surpass [human intelligence](https://en.wikipedia.org/wiki/Human_intelligence "Human intelligence") and become [superintelligent](https://en.wikipedia.org/wiki/Superintelligence "Superintelligence"), it might become uncontrollable.<sup>[[6]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-6)</sup> Just as the fate of the [mountain gorilla](https://en.wikipedia.org/wiki/Mountain_gorilla "Mountain gorilla") depends on human goodwill, the fate of humanity could depend on the actions of a future machine superintelligence.<sup>[[7]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-superintelligence-7)</sup>
