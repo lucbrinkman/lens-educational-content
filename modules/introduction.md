@@ -40,7 +40,7 @@ We continue with an overview of the main concepts regarding AI as a source of ex
 
 ## Article-excerpt
 
-# Chat: Discussion on X-Risk
+## Chat: Discussion on X-Risk
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 instructions::
@@ -69,7 +69,7 @@ source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 from:: 0:00
 to:: 14:48
 
-# Chat: Discussion on Objections
+## Chat: Discussion on Objections
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 instructions::
