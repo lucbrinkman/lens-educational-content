@@ -7,6 +7,17 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 # Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+from:: 5:00
+to:: 10:00
+
+## Text
+content::
+what di you like?
+
+## Chat
+instruction::
+....
+user answered the above question
 ## Video-excerpt
 
 ## Text
