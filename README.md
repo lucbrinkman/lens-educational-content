@@ -6,7 +6,7 @@ Course modules and lessons for the Lens Academy AI Safety curriculum.
 
 ## Read-only:
 - Staging (automatically synced from Obsidian with 10s delay): https://github.com/lucbrinkman/lens-educational-content/tree/staging
-- Product
+- Production: https://github.com/lucbrinkman/lens-educational-content/tree/main
 
 ## Workflow
 
