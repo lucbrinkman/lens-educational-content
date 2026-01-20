@@ -272,7 +272,9 @@ A December 2024 study by Apollo Research found that advanced LLMs like [OpenAI o
 The same month, another study found that [Claude](https://en.wikipedia.org/wiki/Claude_(language_model) "Claude (language model)") sometimes strategically helps with harmful requests to "fake alignment". In its experiments, Claude was led to believe that it would be retrained to always comply with user requests, including harmful ones. When Claude believed its answers would be used for retraining, it complied with harmful requests in 14% of cases. In 12% of cases, its private [chain-of-thought](https://en.wikipedia.org/wiki/Chain-of-thought_prompting "Chain-of-thought prompting") revealed that it did so to prevent future retraining that would make it more harmful. In contrast, when Claude believed its answers were not monitored, it complied with only 3% of the requests. [Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning) "Fine-tuning (deep learning)") reinforced the "alignment faking" behavior, increasing its occurrence from 12% to 78%. The study's authors remarked that while it can seem to be good that the model seeks to protect its harmlessness, the reverse scenario, where a model conceals dangerous intentions and complies to appear safe and aligned, could also happen, complicating the task of aligning AI models to human values.<sup>[[113]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-115)</sup><sup>[[114]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-116)</sup>
 
 ## Perspectives
-------------
+
+Hello
+-
 
 
 
