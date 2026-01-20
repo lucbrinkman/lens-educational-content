@@ -128,7 +128,9 @@ Alan Turing to Stephen Hawking have considered these questions.
 from:: "### General Intelligence"
 to:: "evasion of human control"
 
-
+## Text
+content::
+Please have a chat with the AI Tu
 ## Chat
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
@@ -147,6 +149,7 @@ Discussion topics:
 - How does duplicability change the dynamics of AI development?
 
 Help them understand why these technical properties have such large implications.
+
 
 # Text: Summary
 content::
