@@ -130,7 +130,7 @@ to:: "evasion of human control"
 
 ## Text
 content::
-Please have a chat with the AI Tu
+Please have a chat with the AI Tutor about the article you just read:
 ## Chat
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
