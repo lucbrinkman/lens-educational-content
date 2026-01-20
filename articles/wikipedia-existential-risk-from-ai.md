@@ -381,15 +381,10 @@ In October 2023, U.S. President [Joe Biden](https://en.wikipedia.org/wiki/Joe_Bi
 
 ## Notes
 
-
-
-
 1.   ^ [_**a**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-turing_note_15-0)[_**b**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-turing_note_15-1)In a 1951 lecture<sup>[[13]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-13)</sup> Turing argued that "It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers. There would be no question of the machines dying, and they would be able to converse with each other to sharpen their wits. At some stage therefore we should have to expect the machines to take control, in the way that is mentioned in Samuel Butler's Erewhon". Also in a lecture broadcast on the [BBC](https://en.wikipedia.org/wiki/BBC "BBC")<sup>[[14]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-14)</sup> he expressed the opinion: "If a machine can think, it might think more intelligently than we do, and then where should we be? Even if we could keep the machines in a subservient position, for instance by turning off the power at strategic moments, we should, as a species, feel greatly humbled... This new danger... is certainly something which can give us anxiety."
 2.   **[^](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-106)**as interpreted by [Seth Baum](https://en.wikipedia.org/wiki/Seth_Baum "Seth Baum")
 
-References
-----------
-
+## References
 
 
 1.   ^ [_**a**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-0)[_**b**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-1)[_**c**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-2)[_**d**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-3)[_**e**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-4)[_**f**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-5)[_**g**_](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_ref-aima_1-6)[Russell, Stuart](https://en.wikipedia.org/wiki/Stuart_J._Russell "Stuart J. Russell"); [Norvig, Peter](https://en.wikipedia.org/wiki/Peter_Norvig "Peter Norvig") (2009). "26.3: The Ethics and Risks of Developing Artificial Intelligence". [_Artificial Intelligence: A Modern Approach_](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach "Artificial Intelligence: A Modern Approach"). Prentice Hall. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-13-604259-4](https://en.wikipedia.org/wiki/Special:BookSources/978-0-13-604259-4 "Special:BookSources/978-0-13-604259-4").
