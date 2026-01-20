@@ -19,7 +19,7 @@ Two sources of concern stem from the problems of AI [control](https://en.wikiped
 
 Researchers warn that an "[intelligence explosion](https://en.wikipedia.org/wiki/Intelligence_explosion "Intelligence explosion")"-a rapid, recursive cycle of AI self-improvement-could outpace human oversight and infrastructure, leaving no opportunity to implement safety measures. In this scenario, an AI more intelligent than its creators would [recursively improve itself](https://en.wikipedia.org/wiki/Recursive_self-improvement "Recursive self-improvement") at an exponentially increasing rate, too quickly for its handlers or society at large to control.<sup>[[1]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-aima-1)</sup><sup>[[23]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-yudkowsky-global-risk-24)</sup> Empirically, examples like [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero "AlphaZero"), which taught itself to play [Go](https://en.wikipedia.org/wiki/Go_(game) "Go (game)") and quickly surpassed human ability, show that domain-specific AI systems can sometimes progress from subhuman to superhuman ability very quickly, although such [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning") systems do not recursively improve their fundamental architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
-History
+## History
 -------
 
 
