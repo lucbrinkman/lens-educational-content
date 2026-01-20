@@ -2,6 +2,9 @@
 
 Course modules and lessons for the Lens Academy AI Safety curriculum.
 
+
+- Current staging (automatically synced from ): https://github.com/lucbrinkman/lens-educational-content/tree/staging
+
 ## Workflow
 
 ```
