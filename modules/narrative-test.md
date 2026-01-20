@@ -3,7 +3,7 @@ slug: narrative-test
 title: Introduction to AI Safety
 ---
 
-# Text'W
+# Text
 content::
 !# Welcome to AI Safety
 
