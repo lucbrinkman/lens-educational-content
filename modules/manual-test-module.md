@@ -7,8 +7,8 @@ title: Manual testing
 source:: [[../articles/lens-header-test]]
 ## Article-excerpt
 
-# Article: Existential Risk from AI
-source:: [[]]
+# Article: WP without sup
+source:: [[../articles/wp-without-sup]]
 
 ## Article-excerpt
 
