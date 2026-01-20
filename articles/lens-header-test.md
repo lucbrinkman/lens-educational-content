@@ -1,7 +1,7 @@
 ---
 title: Header test
 author: Luc Brinkman
-source_url: https://intelligence.org/files/IE-EI.pdf
+source_url: https://lensacademy.org
 ---
 
 ## H2 More articles coming soon!
