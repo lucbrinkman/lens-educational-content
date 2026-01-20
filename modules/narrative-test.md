@@ -17,7 +17,7 @@ content::
 Watch this video from Kurzgesagt to understand why artificial intelligence
 might be humanity's most important invention. hello there this
 
-world is going
+world is going to be
 
 ## Video-excerpt
 from:: 0:00
