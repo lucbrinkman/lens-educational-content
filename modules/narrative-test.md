@@ -15,7 +15,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 ## Text
 content::
 Watch this video from Kurzgesagt to understand why artificial intelligence
-might be humanity's most important invention. hello 
+might be humanity's most important invention. hello there
 
 world
 
