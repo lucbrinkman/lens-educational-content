@@ -11,18 +11,14 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-What surprised you or stood out to you while watching this video?sd
+What surprised you or stood out to you while watching this video?
 ## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 
 instructions::
 TLDR of what the user just watched:
-Humans dominate Earth because general intelligence enabled cumulative knowledge.
-Modern AI evolved from narrow tools into opaque "black box" learning systems.
-AGI matters because digital minds can run faster, scale, and be copied—potentially
-outcompeting humans and concentrating power. An intelligence explosion could lead
-to superintelligence with uncertain outcomes.
+Humans dominate Earth because general intelligence enabled cumulative knowledge. Modern AI evolved from narrow tools into opaque "black box" learning systems. AGI matters because digital minds can run faster, scale, and be copied—potentially outcompeting humans and concentrating power. An intelligence explosion could lead to superintelligence with uncertain outcomes.
 
 Discussion topics to explore:
 - What is intelligence as "problem-solving ability" and why is it a source of power?
