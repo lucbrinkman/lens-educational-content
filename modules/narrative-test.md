@@ -15,7 +15,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-Watch the first part of this video from Kurzgesagt to understand why artificial intelligence
+Watch the first part of this video from Kurzgesagt to understand why artificial {~~intelligence~>headsup~~}
 might be humanity's most important {--invention--}.{++ another word.++}
 
 ## Video-excerpt
