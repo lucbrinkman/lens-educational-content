@@ -9,7 +9,7 @@ content::
 
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this tech{>>test
-<<}{>>plex: this is a reply<<}nology present to humanity.{++test++}
+<<}{>>plex: this is a reply<<}nology present to humanity.{++test++}{>>reply to comment<<}
 # Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
