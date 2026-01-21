@@ -16,7 +16,7 @@ Let's watch this Kurzgesagt video:
 
 ## Text
 content::
-What surprised you or stood out to you while watching this video? Hello
+What surprised you or stood out to you while watching this video?
 ## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
