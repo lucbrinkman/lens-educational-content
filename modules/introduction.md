@@ -4,9 +4,14 @@ title: Introduction
 ---
 # Text
 content::
-We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
+We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
+
 # Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+
+## Text
+content::
+Please watch this Kurzgesagt video:
 ## Video-excerpt
 
 ## Text
@@ -81,10 +86,7 @@ showUserPreviousContent:: true
 showTutorPreviousContent:: true
 instructions::
 TLDR of what the user just watched:
-The video presents 10 common objections to AI safety concerns and refutes each one.
-Key rebuttals include: instrumental convergence explains why "just don't add bad goals"
-fails; implicit goals make systems LESS safe; the "asteroid analogy" shows why early
-preparation matters; being "for AI safety" is not the same as being "against AI."
+The video presents 10 common objections to AI safety concerns and refutes each one. Key rebuttals include: instrumental convergence explains why "just don't add bad goals" fails; implicit goals make systems LESS safe; the "asteroid analogy" shows why early preparation matters; being "for AI safety" is not the same as being "against AI."
 
 Discussion topics to explore:
 - Which objection did they find most initially convincing? Did their view change?

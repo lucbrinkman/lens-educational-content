@@ -14,7 +14,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-Watch this video from Kurzgesagt to understand why artificial intelligence
+Watch the first part of this video from Kurzgesagt to understand why artificial intelligence
 might be humanity's most important invention.
 
 ## Video-excerpt
@@ -130,72 +130,7 @@ to:: "evasion of human control"
 
 ## Text
 content::
-**The path from AGI to superintelligence:**
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
-Notice Bostrom's list of advantages AI has over human brains: speed,
-scalability, duplicability. These aren't science fiction - they're
-inherent properties of software.
-
+Please have a chat with the AI Tutor about the article you just read:
 ## Chat
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
@@ -214,6 +149,7 @@ Discussion topics:
 - How does duplicability change the dynamics of AI development?
 
 Help them understand why these technical properties have such large implications.
+
 
 # Text: Summary
 content::

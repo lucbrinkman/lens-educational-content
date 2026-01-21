@@ -2,6 +2,12 @@
 
 Course modules and lessons for the Lens Academy AI Safety curriculum.
 
+
+
+## Read-only:
+- Staging (automatically synced from Obsidian with 10s delay): https://github.com/lucbrinkman/lens-educational-content/tree/staging
+- Production: https://github.com/lucbrinkman/lens-educational-content/tree/main
+
 ## Workflow
 
 ```
@@ -14,7 +20,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 3. **Create PR** - Manually open a pull request from `staging` to `main`
 4. **Validation** - GitHub Actions validates lesson format and wiki-links
 5. **Merge to main** - Once checks pass, squash and merge to `main`
-6. **Production** - The `main` branch is used directly by the production website
+6. **Production** - The `main` branch is used directly by the production website..
 
 ## Important
 
