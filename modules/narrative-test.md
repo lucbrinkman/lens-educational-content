@@ -8,7 +8,7 @@ content::
 !# Welcome to AI Safety
 
 We begin by examining the potential of AI and the risks and opportunities
-that the characteristics of this techno{>><<}logy present to humanity.{++test++}
+that the characteristics of this tech{>><<}{++test++}nology present to humanity.{++test++}
 # Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
