@@ -41,8 +41,7 @@ Discussion topics to explore:
 - What's the difference between narrow AI (like ChatGPT) and AGI?
 
 Start by asking what stood out or surprised them. Use Socratic questioning to
-check their understanding of these concepts. Don't lecture—help them articulate
-their own thinking.
+check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
 
 ## Video-excerpt
 from:: 5:00
