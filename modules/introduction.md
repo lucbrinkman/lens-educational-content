@@ -8,6 +8,8 @@ We begin by examining the potential of AI and the risks and opportunities that t
 
 # [[../Sections/A.I. - Humanity's Final Invention]]
 
+# [[wikip]]
+
 
 
 # Video: 10 Reasons to Ignore AI Safety
