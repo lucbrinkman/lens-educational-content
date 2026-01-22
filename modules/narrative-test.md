@@ -5,7 +5,6 @@ title: Introduction to AI Safety
 
 # Text: Welcome to AI Safety
 content::
-
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this tech{>>test
 <<}{>>plex: this is a reply<<}nology presen==t to humanit==y.{++test++}{>>reply to comment<<}
@@ -144,7 +143,7 @@ Discussion topics:
 
 Help them understand why these technical properties have such large implications.
 
-# Article
+# Article: Four 
 source:: [[../articles/nate-soares-four-background-claims]]
 
 ## Article-excerpt
