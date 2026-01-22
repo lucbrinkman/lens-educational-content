@@ -149,6 +149,8 @@ Help them understand why these technical properties have such large implications
 
 # Article
 
+## Article-excerpt
+
 # Text: Summary
 content::
 !# Summary
