@@ -151,7 +151,7 @@ Help them understand why these technical properties have such large implications
 
 ## Article-excerpt
 from:: "In this post and"
-to::
+to:: "powerful generally intelligent "
 
 # Text: Summary
 content::
