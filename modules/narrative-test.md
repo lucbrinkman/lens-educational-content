@@ -143,7 +143,7 @@ Discussion topics:
 
 Help them understand why these technical properties have such large implications.
 
-# Article: Four 
+# Article: Four Background Claims
 source:: [[../articles/nate-soares-four-background-claims]]
 
 ## Article-excerpt
