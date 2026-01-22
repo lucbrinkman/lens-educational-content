@@ -30,8 +30,6 @@ The video describes how humans dominate Earth because of our general
 intelligence. It also explains the difference between narrow AI and AGI.
 
 ## Chat
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 TLDR of what the user just watched:
 Humans dominate Earth because general intelligence enabled cumulative knowledge. Modern AI evolved from narrow tools into opaque "black box" learning systems. AGI matters because digital minds can run faster, scale, and be copied—potentially outcompeting humans and concentrating power.
