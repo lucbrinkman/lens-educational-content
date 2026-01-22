@@ -25,7 +25,8 @@ source:: [[../articles/paul-christiano-takeoff-speeds]]
 
 # Chat: Discussion on Takeoff Speeds
 showUserPreviousContent:: false
-showTutorPreviousContent:: true
+
+
 instructions::
 The user has now read Paul Christiano's perspective on recursive self-improvement and takeoff speeds. Compare this "slow takeoff" view with the previous readings. Help them understand the key disagreements about how quickly AI capabilities might advance.
 
