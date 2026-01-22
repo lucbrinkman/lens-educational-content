@@ -158,6 +158,9 @@ to:: "powerful generally intelligent AI systems."
 from:: "## Claim #2"
 to:: "In other words, AI matters."
 
+## Text
+content::
+And another bit of the arti
 ## Article-excerpt
 from:: "Humans use their intelligence"
 to:: "cure for cancer."
