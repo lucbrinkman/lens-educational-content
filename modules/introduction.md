@@ -18,8 +18,6 @@ Please watch this Kurzgesagt video:
 content::
 What surprised you or stood out to you while watching this video?
 ## Chat: Discussion on AI Basics
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 
 instructions::
 TLDR of what the user just watched:

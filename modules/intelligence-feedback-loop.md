@@ -38,8 +38,6 @@ from:: 0:00
 to:: 5:00
 
 # Chat: Quiz on Video
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just watched a Kurzgesagt video about AI and intelligence explosion.
 Quiz them on the key concepts without providing hints.
@@ -57,8 +55,6 @@ source:: [[../articles/tim-urban-artificial-intelligence-revolution-1]]
 ## Article-excerpt
 
 # Chat: Synthesis Discussion
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user has now read Yudkowsky's analysis of recursive self-improvement and
 Tim Urban's exploration of accelerating progress and the road to superintelligence.
