@@ -152,7 +152,7 @@ source:: [[../articles/nate-soares-four-background-claims]]
 
 ## Article-excerpt
 from:: "In this post and"
-to:: "replic."
+to:: "replicate in code."
 
 ## Article-excerpt
 from:: "## Claim #2"
