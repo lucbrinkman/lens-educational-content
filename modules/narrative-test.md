@@ -150,6 +150,8 @@ Help them understand why these technical properties have such large implications
 # Article
 
 ## Article-excerpt
+from:: "In this post and"
+to::
 
 # Text: Summary
 content::
