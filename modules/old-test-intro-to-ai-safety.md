@@ -52,8 +52,6 @@ from:: "build powerful generally intelligent AI systems."
 to:: "AI matters."
 
 # Chat: Reading Quiz
-showUserPreviousContent:: false
-showTutorPreviousContent:: true
 instructions::
 Quiz the user on what they just read.
 Test their recall without showing them the article - they should remember the key points.
