@@ -155,7 +155,8 @@ to:: "powerful generally intelligent AI systems."
 
 
 ## Article-excerpt
-from: "## Claim #"
+from: "## Claim #2"
+to:: "In other word"
 
 # Text: Summary
 content::
