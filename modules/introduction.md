@@ -6,11 +6,12 @@ title: Introduction
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
-# ![[../Sections/A.I. - Humanity's Final Invention]]
+# [[../Sections/A.I. - Humanity's Final Invention]]
 
 # [[../Sections/Wikipedia Existential Risk]]
 
 # [[../Sections/10 reasons]]
+
 
 
 # Article: Four Background Claims (Optional)
