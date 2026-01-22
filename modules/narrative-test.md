@@ -3,9 +3,8 @@ slug: narrative-test
 title: Introduction to AI Safety
 ---
 
-# Text
+# Text: Welcome to AI Safety
 content::
-!# Welcome to AI Safety
 
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this tech{>>test
