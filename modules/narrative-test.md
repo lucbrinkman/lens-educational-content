@@ -153,16 +153,13 @@ Help them understand why these technical properties have such large implications
 from:: "In this post and"
 to:: "powerful generally intelligent AI systems."
 
-
 ## Article-excerpt
 from: "## Claim #2"
 to:: "In other words, AI matters."
 
-
 ## Article-excerpt
 from:: "Humans use their intelligence"
-to:: "evasion of human control"
-
+to:: "cure for cancer."
 
 # Text: Summary
 content::
