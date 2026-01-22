@@ -24,7 +24,6 @@ source:: [[../articles/paul-christiano-takeoff-speeds]]
 ## Article-excerpt
 
 # Chat: Discussion on Takeoff Speeds
-showUserPreviousContent:: false
 hidePreviousContentFromUser:: true
 
 instructions::
