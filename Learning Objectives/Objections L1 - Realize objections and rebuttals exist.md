@@ -1,5 +1,5 @@
 
 # Test:
 ...
-# Resource:
+# Resources:
 ![[../Sections/10 reasons]]
