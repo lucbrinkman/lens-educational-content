@@ -20,6 +20,10 @@ We begin by examining the potential of AI and the risks and opportunities that t
 
 ![[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
+[[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
+
+[[l]]
+
 # Article: Four Background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
 optional:: true
