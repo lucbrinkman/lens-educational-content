@@ -8,7 +8,7 @@ Steps to get started:
 	- **NEVER put your Obsidian vault in a onedrive/google drive/iCloud or other synchronization tool**. Doing so would cause many merge conflicts with our synchronization tool Relay. Additionally, our full Relay history is already backed up to Github by the server, so you don't need to worry about that either.
 	- Put the folder at e.g. "C:\Users\lucbr\Documents\Obsidian Vault"
 3. Go to the community plugin store inside of the Obsidian app and install Relay
-4. In the Relay options, sign up and join the Lens Academy Relay server using this key: ` <ask Luc for the key> `, or see 
+4. In the Relay options, sign up and join the Lens Academy Relay server using this key: ` <ask Luc for the key> `, or see [[../Lens Academy/Relay Secret Key|Relay Secret Key]]
 5. Our Relay server contains two folders: `Lens Academy` and `Lens Educational Content`. Install both
 
 - **NEVER have your Lens Academy folder in a onedrive/google drive/iCloud or other synchronization tool.** This gives many merge conflicts in Relay. Additionally our full Relay history is already backed up to Github by the server.
