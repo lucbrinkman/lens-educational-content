@@ -2,7 +2,7 @@
 
 - Remember the top 5 objections to existential risk from AI and be able to articulate the rebuttals to each
 - Have a passing familiarity with the remaining common objections and be familiar with the rebuttals
-- 
+- Know where to find a large list of 
 # Test:
 ...
 # Resources:
