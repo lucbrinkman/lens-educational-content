@@ -9,8 +9,11 @@ We begin by examining the potential of AI and the risks and opportunities that t
 I would expect an introduction to explain why we built this course and what we expect the students to be able to do at the end of the course. It might also include a basic introduction to the platform and how the weekly meetings are expected to proceed. <<}. 
 
 # Learning Objective: Explain why (yet another) AI safety course is needed
-# Learning Objective: Master the tools of the Lens teaching platform
-
+- Most other courses are focused on more near-term and tractable problems, leading them to de-emphasize existential risk from superintelligence.
+# Learning Objective: Master the tools of the Lens teaching platform and set group norms
+- Navigate the website effectively
+- Get notifications in Discord
+- Think about group norms prior to the first meeting
 
 [[../Sections/A.I. - Humanity's Final Invention]]
 
