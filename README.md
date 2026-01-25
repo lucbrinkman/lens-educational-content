@@ -38,8 +38,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 :::: A. One **Resource** {article, video, a section from one of them, or a little app to teach something}
 :::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
 :::: C. Some extra bits like framing texts etc (optional)
-### Repo fo
-
+### Repo folder structure
 ```
 ├── modules/          # Lesson content (markdown)
 ├── courses/          # Course definitions (which lessons, in what order)
