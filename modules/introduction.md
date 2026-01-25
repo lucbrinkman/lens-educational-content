@@ -9,14 +9,14 @@ We begin by examining the potential of AI and the risks and opportunities that t
 I would expect an introduction to explain why we built this course and what we expect the students to be able to do at the end of the course. It might also include a basic introduction to the platform and how the weekly meetings are expected to proceed. <<}. 
 
 
-![[../Sections/A.I. - Humanity's Final Invention]]
+[[../Sections/A.I. - Humanity's Final Invention]]
 
 
 
-![[../Sections/Wikipedia Existential Risk]]
+[[../Sections/Wikipedia Existential Risk]]
 
 # Learning Objective:
-![[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
+[[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
 # Article: Four Background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
