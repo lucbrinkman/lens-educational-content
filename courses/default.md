@@ -4,7 +4,6 @@ title: AI Safety Course
 ---
 
 # Lesson: [[../modules/introduction]]
-- 
 
 # Meeting: 1
 
