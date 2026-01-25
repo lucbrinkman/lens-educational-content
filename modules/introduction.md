@@ -4,9 +4,9 @@ title: Introduction
 ---
 # Text
 content::
-We begin by examining the potential of AI and the risks and opportunities{>>CGL > This does not feel like an introduction to me. It feels like the first module of content. 
+We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity{>>CGL > This does not feel like an introduction to me. It feels like the first module of content. 
 
-I would expect an introduction to explain why we built this course and what we expect the students to be able to do at the end of the course. It might also include a basic introduction to the platform and how the weekly meetings are expected to proceed. <<} that the characteristics of this technology present to humanity. 
+I would expect an introduction to explain why we built this course and what we expect the students to be able to do at the end of the course. It might also include a basic introduction to the platform and how the weekly meetings are expected to proceed. <<}. 
 
 
 ![[../Sections/A.I. - Humanity's Final Invention]]

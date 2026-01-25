@@ -33,7 +33,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 : **Module** - list of
 :: **Learning outcome** - where each has three params
 ::: 1. Name of outcome
-::: 2. **Test** - how we'll assess whether the person learned the objective 
+::: 2. **Test** - how we'll assess whether the person learned the objective
 ::: 3. **Lens** - a learning flow which has
 :::: A. One **Resource** {article, video, a section from one of them, or a little app to teach something}
 :::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
