@@ -44,6 +44,9 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 Module note:
 ```md
 # Text:
+content::
+Lorum Ipsum
+
 # Learning Outcome:
 [[link to Learning Outcome note]]
 ```
