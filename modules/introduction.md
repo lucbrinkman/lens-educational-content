@@ -19,7 +19,7 @@ I would expect an introduction to explain why we built this course and what we e
 [[../Sections/Wikipedia Existential Risk]]
 
 # Learning Objective:
-[[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
+[[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
 # Article: Four Background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
