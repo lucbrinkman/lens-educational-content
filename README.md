@@ -59,6 +59,7 @@ Module note:
 # Learning Outcome:
 [[link to Learning Outcome note]]
 ```
+
 Learning Outcome note:
 ```md
 ## Test:
@@ -68,6 +69,7 @@ Learning Outcome note:
 ## Lens: (optional)
 [[Link to 2nd Lens note]]
 ```
+
 Lens note:
 ```md
 ### Video: or Article:
