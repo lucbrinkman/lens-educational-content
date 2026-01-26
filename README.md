@@ -62,8 +62,9 @@ Module note:
 Learning Outcome note:
 ```md
 ## Test:
+[[Link to Test note]]
 ## Lens:
-[[link to ]]
+[[link to Lens note]]
 ```
 
 
