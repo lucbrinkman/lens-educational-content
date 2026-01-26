@@ -42,9 +42,13 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 ( :  is replaced in the notes with # )
 
 #### Module note
-Any number of 
+Required frontmatter: `slug`, `title`
+
+Any number of
 \# Text:
 \# Learning Outcome:
+
+Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and targets must exist.
 
 Example:
 ```md
@@ -76,11 +80,15 @@ Example:
 ```
 
 #### Lens note
+Valid section types: `Video`, `Article`, `Text`, `Chat`
+
 Any number of
 \# Video: or Article:
 \# Text:
 \# Video-excerpt or Article-excerpt:
 \# Chat:
+
+Each section type has required fields (see example below).
 
 Example:
 ```md
@@ -113,11 +121,3 @@ You're an AI tutor
 └── video_transcripts/ # Video transcript source texts
 ```
 
-## Validation
-
-All modules and courses are validated on PR:
-- Required frontmatter (`slug`, `title`)
-- Valid section types (`Video`, `Article`, `Text`, `Chat`)
-- Required fields per section type
-- Wiki-links must use relative paths (`[[../video_transcripts/...]]`)
-- Wiki-link targets must exist
