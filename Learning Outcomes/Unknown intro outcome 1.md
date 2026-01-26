@@ -4,7 +4,7 @@ discussion-note: "[[../../Lens Academy/Unknown intro outcome 1 discussion|Unknow
 # Test:
 
 # Lens:
-[[../Lenses/A.I. - Humanity's Final Invention]]
+![[../Lenses/A.I. - Humanity's Final Invention]]
 
 # Lens:
-[[../Lenses/Wikipedia Existential Risk]]
+![[../Lenses/Wikipedia Existential Risk]]
