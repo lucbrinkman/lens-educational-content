@@ -42,7 +42,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 ( :  is replaced in the notes with # )
 
 #### Modules
-`Lens Educational Content/Modules/module.md`
+e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`
 
 Any number of
@@ -67,7 +67,7 @@ Lorum Ipsum
 ```
 
 #### Learning Outcomes
-`Lens Educational Content/Learning Outcomes/learning-outcome.md`
+e.g. `Lens Educational Content/Learning Outcomes/learning-outcome.md`
 
 Any number of
 \# Test:
@@ -84,7 +84,7 @@ Example:
 ```
 
 #### Lenses
-`Lens Educational Content/Lenses/lens.md`
+e.g. `Lens Educational Content/Lenses/lens.md`
 
 Valid section types: `Video`, `Article`, `Text`, `Chat`
 
