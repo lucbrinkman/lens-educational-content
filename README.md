@@ -46,7 +46,9 @@ Module notes have any number of:
 \# Learning Outcome:
 \## Test:
 \## Lens:
-\## Lens (optional)
+
+\## Lens: (2nd Lens optional)
+
 
 Learning outcome notes has one:
 ! ##
