@@ -67,6 +67,8 @@ Lorum Ipsum
 ```
 
 #### Learning Outcome notes
+`Lens Educational Content/Learning Outcomes/learning-outcome.md`
+
 Any number of
 \# Test:
 \# Lens:
@@ -82,6 +84,8 @@ Example:
 ```
 
 #### Lens notes
+`Lens Educational Content/Lenses/lens.md`
+
 Valid section types: `Video`, `Article`, `Text`, `Chat`
 
 Any number of
