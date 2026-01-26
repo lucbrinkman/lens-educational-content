@@ -107,8 +107,8 @@ content::
 Lorum Ipsum
 
 #### Video-excerpt or Article-excerpt
-(optional) from:: 1:
-(optional) to::
+(optional) from:: 1:18
+(optional) to:: 15:38
 
 #### Text
 content::
