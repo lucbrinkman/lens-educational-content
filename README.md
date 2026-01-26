@@ -42,9 +42,11 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 ( :  is replaced in the notes with # )
 
 #### Module notes
+`Lens Educational Content/Modules/`
 Required frontmatter: `slug`, `title`
 
 Any number of
+
 \# Text Page:
 \# Learning Outcome:
 
