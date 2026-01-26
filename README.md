@@ -45,14 +45,14 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 Required frontmatter: `slug`, `title`
 
 Any number of
-\# Text:
+\# Text Page:
 \# Learning Outcome:
 
 Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and targets must exist.
 
 Example:
 ```md
-# Text:
+# Text Page:
 content::
 Lorum Ipsum
 
