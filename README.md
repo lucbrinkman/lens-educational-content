@@ -46,7 +46,7 @@ Module notes have any number of:
 \# Learning Outcome:
 \## Test:
 \## Lens:
-\### Video: <tior Article:
+\### Video: \<title> or Article: \<t
 
 
 \## Lens: (2nd Lens optional)
