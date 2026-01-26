@@ -96,18 +96,6 @@ You're an AI tutor
 
 
 
-
-
-
-
-\## Lens: (2nd Lens optional)
-
-
-Learning outcome notes has one:
-! ##
-
-
-```
 ### Repo folder structure
 ```
 ├── modules/          # Lesson content (markdown)
