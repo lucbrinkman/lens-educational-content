@@ -70,10 +70,10 @@ Learning Outcome note:
 ```
 Lens note:
 ```md
-\### Video: or Article:
-\#### Video-excerpt or Article-excerpt
-\#### Text
-\#### Chat
+### Video: or Article:
+#### Video-excerpt or Article-excerpt
+#### Text
+#### Chat
 ```
 
 
