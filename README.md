@@ -52,10 +52,13 @@ Module notes have any number of:
 \#### Chat
 
 Typically, we split this up into multiple files:
-Module file:
+
+Module note:
 \# Text:
 \# Learning Outcome:
-\[\[link to ]]
+\[\[link to Learning Outcome note]]
+
+
 
 
 
