@@ -57,8 +57,9 @@ Module note:
 ```md
 # Text:
 # Learning Outcome:
-\[\[link to Learning Outcome note]]
+[[link to Learning Outcome note]]
 ```
+Learning Outcome note:
 
 
 
