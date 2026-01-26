@@ -40,7 +40,6 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 :::: C. Some extra bits like framing texts etc (optional)
 
 This is implemented as shown below:
-
 #### Modules
 e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`
@@ -62,7 +61,6 @@ Lorum Ipsum
 
 # Learning Outcome:
 [[link to 2nd learning outcome note]]
-
 ```
 
 #### Learning Outcomes
