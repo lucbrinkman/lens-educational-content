@@ -43,7 +43,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 Module note has:
 \# Text
-
+\# Learning Outcome
 
 ```
 ### Repo folder structure
