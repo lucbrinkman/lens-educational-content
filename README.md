@@ -83,10 +83,10 @@ Example:
 Valid section types: `Video`, `Article`, `Text`, `Chat`
 
 Any number of
-\# Video: or Article:
-\# Text:
-\# Video-excerpt or Article-excerpt:
-\# Chat:
+\### Video: or Article:
+\#### Text:
+\#### Video-excerpt or Article-excerpt:
+\#### Chat:
 
 Each section type has required fields (see example below).
 
