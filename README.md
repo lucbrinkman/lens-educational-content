@@ -41,7 +41,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ( :  is replaced in the notes with # )
 
-Module note has:
+Module note any number of:
 \# Text
 \# Learning Outcome
 
