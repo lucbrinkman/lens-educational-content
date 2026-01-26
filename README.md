@@ -118,3 +118,6 @@ You're an AI tutor
 ```
 
 
+
+
+test edit via Obsidian MCP
