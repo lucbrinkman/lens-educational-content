@@ -46,7 +46,6 @@ e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`
 
 Any number of
-
 \# Text Page:
 \# Learning Outcome:
 
@@ -80,6 +79,7 @@ Example:
 
 ## Lens:
 [[link to Lens note]]
+
 ## Lens: (optional)
 [[Link to 2nd Lens note]]
 ```
