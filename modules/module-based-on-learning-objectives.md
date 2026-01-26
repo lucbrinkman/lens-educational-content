@@ -7,15 +7,15 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
 
-![[../Sections/A.I. - Humanity's Final Invention]]
+![[../Lenses/A.I. - Humanity's Final Invention]]
 
 
 
-![[../Sections/Wikipedia Existential Risk]]
+![[../Lenses/Wikipedia Existential Risk]]
 
 
 
-![[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
+![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
 
 
