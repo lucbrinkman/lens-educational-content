@@ -71,13 +71,16 @@ Learning Outcome note:
 Lens note:
 ```md
 ### Video: or Article:
+
 #### Video-excerpt or Article-excerpt
+
 #### Text
 content::
 Lorum Ipsum
+
 #### Chat
 instructions::
-You're 
+You're an AI tutor
 ```
 
 
