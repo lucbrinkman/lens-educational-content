@@ -1,5 +1,5 @@
 ---
-discussion-note: "[[../../Lens Academy/Objections L1 discussion|Objections L1 discussion]]"
+discussion-note: "
 ---
 # Test:
 
