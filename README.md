@@ -40,6 +40,8 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 :::: C. Some extra bits like framing texts etc (optional)
 
 ( :  is replaced in the notes with # )
+
+Module note has
 ### Repo folder structure
 ```
 ├── modules/          # Lesson content (markdown)
