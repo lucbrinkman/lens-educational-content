@@ -1,5 +1,5 @@
 ---
-discussion-note: "
+discussion-note: ""
 ---
 # Test:
 
