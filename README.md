@@ -49,6 +49,8 @@ Lorum Ipsum
 
 # Learning Outcome:
 [[link to Learning Outcome note]]
+
+
 ```
 
 Learning Outcome note:
