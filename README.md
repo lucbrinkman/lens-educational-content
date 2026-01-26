@@ -50,7 +50,7 @@ Lorum Ipsum
 # Learning Outcome:
 [[link to Learning Outcome note]]
 
-# Learning Outcome: (optional)
+# Learning Outcome
 [[link to 2nd learning outcome note]]
 
 ```
