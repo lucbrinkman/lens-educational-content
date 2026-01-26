@@ -74,8 +74,9 @@ Lens note:
 #### Video-excerpt or Article-excerpt
 #### Text
 content::
-
+Lorum Ipsum
 #### Chat
+in
 ```
 
 
