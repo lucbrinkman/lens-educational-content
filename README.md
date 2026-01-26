@@ -70,7 +70,7 @@ Lorum Ipsum
 [[Link to 2nd Lens note]]
 ```
 
-Lens note:
+#### Lens note
 ```md
 ### Video: or Article:
 source:: [[link to video_transcript or article note]]
@@ -91,9 +91,6 @@ Lorum Ipsum
 instructions::
 You're an AI tutor
 ```
-
-
-
 
 
 ### Repo folder structure
