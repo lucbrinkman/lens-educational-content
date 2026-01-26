@@ -69,7 +69,12 @@ Learning Outcome note:
 [[Link to 2nd Lens note]]
 ```
 Lens note:
-
+```md
+\### Video: or Article:
+\#### Video-excerpt or Article-excerpt
+\#### Text
+\#### Chat
+```
 
 
 
