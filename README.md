@@ -2,7 +2,7 @@
 
 Course modules and lessons for the Lens Academy AI Safety curriculum.⁠⁠
 well hello
-Are we happy? Are we snappy?
+Are we happy? Are we snappy? Dappy nappy.
 Hey there
 
 ## Read-only:
