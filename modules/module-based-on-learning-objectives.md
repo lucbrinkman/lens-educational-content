@@ -6,7 +6,7 @@ title: Introduction
 # Text Page
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
-
+{++hello++}
 
 ![[../Lenses/A.I. - Humanity's Final Invention]]
 
