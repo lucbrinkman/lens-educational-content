@@ -1,7 +1,6 @@
 # Lens Academy Educational Content
 
-Course modules and lessons for the Lens Academy AI Safety curriculum.
-
+Course modules and lessons for the Lens Academy AI Safety curriculum.⁠⁠
 
 
 ## Read-only:
