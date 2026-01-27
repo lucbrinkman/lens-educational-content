@@ -1,5 +1,5 @@
 ---
-discussion-note: "[[../../Lens Academy/Unknown intro outcome 1 discussion|Unknown intro outcome 1 discussion]]"
+discussion-note: https://discord.com/channels/1440725236843806762/1465348335249522768
 ---
 ## Test:
 
