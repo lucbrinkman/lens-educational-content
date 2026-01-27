@@ -1,4 +1,5 @@
 ---
+id: 032413ee-f662-4bc8-bc80-03563e277fd5
 slug: default
 title: AI Safety Course
 ---
