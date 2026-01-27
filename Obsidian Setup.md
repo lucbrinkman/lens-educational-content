@@ -1,4 +1,5 @@
 Sharing this note with others: https://github.com/lucbrinkman/lens-educational-content/blob/staging/Obsidian%20Setup.md
+(this note )
 ## Setting up Obsidian with Lens Academy
 We do our Lens Academy work in Obsidian, and synchronize them with a plugin called Relay. Obsidian uses the Markdown file format.
 
