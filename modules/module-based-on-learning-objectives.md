@@ -3,7 +3,7 @@ id: 05c9c008-a76c-4a3e-8a6b-b304a13273b1
 slug: introduction
 title: Introduction
 ---
-# Text
+# Text Page
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
