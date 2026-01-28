@@ -19,6 +19,7 @@ source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttal
 # Uncategorized:
 ## Lens:
 optional:: true
+
 ### Article: Four background Claims
 source:: [[../articles/nate-soares-four-background-claims]]
 
