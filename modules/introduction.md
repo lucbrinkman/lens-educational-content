@@ -18,9 +18,10 @@ source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttal
 
 # Uncategorized:
 ## Lens:
-### Article: Four background Claims (Optional)
-source:: [[../articles/nate-soares-four-background-claims]]
 optional:: true
+### Article: Four background Claims
+source:: [[../articles/nate-soares-four-background-claims]]
+
 
 #### Text
 content::
@@ -29,6 +30,7 @@ This text explains exactly how the emergence of AI[[Objections L1 - Realize obje
 #### Article-excerpt
 
 ## Lens:
+optionall
 ### Article: Worst-Case Thinking (Optional)
 source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
 optional:: true
