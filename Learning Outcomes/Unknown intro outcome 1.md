@@ -8,4 +8,5 @@ discussion: https://discord.com/channels/1440725236843806762/1465348335249522768
 source:: ![[../Lenses/A.I. - Humanity's Final Invention]]
 
 ## Lens:
+s
 ![[../Lenses/Wikipedia Existential Risk]]
