@@ -16,16 +16,17 @@ source:: ![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
-# Uncategorized
-# Article: Four background Claims (Optional)
+# Uncategorized:
+## Lens:
+#### Article: Four background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
 optional:: true
 
-## Text
+#### Text
 content::
 This text explains exactly how the emergence of AI[[Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]g done today that increases the chance of a positive outcome. The author identifies four key premises that underpin his entire perspective on the prospects of AI.
 
-## Article-excerpt
+#### Article-excerpt
 
 # Article: Worst-Case Thinking (Optional)
 source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
