@@ -5,7 +5,7 @@ title: Introduction to AI Safety
 ---
 
 # Article: Four Background Claims - Intro
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 
 ## Text
 content::
@@ -16,7 +16,7 @@ from:: "MIRI's mission is to ensure"
 to:: "build powerful generally intelligent AI systems."
 
 # Article: Four Background Claims - Extended (Optional)
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 optional:: true
 
 ## Article-excerpt
@@ -30,7 +30,7 @@ Ask them what they found most surprising or what questions they have.
 Check their understanding of why AI safety matters.
 
 # Video: Intro to AI Safety
-source:: [[../video_transcripts/robertmiles-intro-to-ai-safety-remastered]]
+source:: [[../../video_transcripts/robertmiles-intro-to-ai-safety-remastered]]
 
 ## Text
 content::
@@ -46,7 +46,7 @@ The user just watched a video clip about AI safety.
 Quiz them on the key points without providing hints - test their recall.
 
 # Article: Four Background Claims - Continued
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 
 ## Article-excerpt
 from:: "build powerful generally intelligent AI systems."
