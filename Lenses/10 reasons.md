@@ -6,7 +6,7 @@ source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
 #### Video-excerpt
 from:: 0:00
-to:: 14:48
+to:: 15:37
 
 #### Text
 content::
