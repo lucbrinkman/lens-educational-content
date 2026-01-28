@@ -1,11 +1,26 @@
 ---
-id: 7a3b8c12-4d5e-6f7a-8b9c-0d1e2f3a4b5c
+id: 69615c7b-49e1-431b-8748-3f6de6fef21e
+slug: introduction
+title: Introduction
+discussion: https://discord.com/channels/1440725236843806762/1465349126073094469
 ---
-### Article: Four Background Claims
-source:: [[../articles/nate-soares-four-background-claims]]
-
-#### Text
+# Page: Welcome
+id:: a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d
+## Text
 content::
-This text explains exactly how the emergence of AI impacts work being done today that increases the chance of a positive outcome. The author identifies four key premises that underpin his entire perspective on the prospects of AI.
+We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
-#### Article-excerpt
+# Learning Outcome:
+source:: ![[../Learning Outcomes/Unknown intro outcome 1]]
+
+# Learning Outcome:
+source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
+
+# Uncategorized:
+## Lens:
+optional:: true
+source:: ![[../Lenses/Four Background Claims]]
+
+## Lens:
+optional:: true
+source:: ![[../Lenses/Worst-Case Thinking]]
