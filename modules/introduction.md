@@ -18,7 +18,7 @@ source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttal
 
 # Uncategorized:
 ## Lens:
-#### Article: Four background Claims (Optional)
+### Article: Four background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
 optional:: true
 
@@ -28,11 +28,12 @@ This text explains exactly how the emergence of AI[[Objections L1 - Realize obje
 
 #### Article-excerpt
 
-# Article: Worst-Case Thinking (Optional)
+## Lens:
+### Article: Worst-Case Thinking (Optional)
 source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
 optional:: true
 
-## Text
+### Text
 content::
 In discussions of AI safety, people often propose the assumption that something will go as badly as possible. Different people may do this for different reasons; in this essay, the author reviews some of the most common reasons and writes about how this difference might manifest itself and what it means.
 
