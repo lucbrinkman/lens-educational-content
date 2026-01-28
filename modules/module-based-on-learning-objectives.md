@@ -8,7 +8,7 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
 
-![[../Lenses/A.I. - Humanity's Final Invention]]
+source:: ![[../Lenses/A.I. - Humanity's Final Invention]]
 
 
 
