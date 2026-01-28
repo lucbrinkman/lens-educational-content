@@ -11,7 +11,7 @@ We begin by examining the potential of AI and the risks and opportunities that t
 I would expect an introduction to explain why we built this course and what we expect the students to be able to do at the end of the course. It might also includea  basic introduction to the platform and how the weekly meetings are expected to proceed. <<}. 
 
 # Learning Outcome:
-![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
+source:: ![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
 
 # Learning Outcome:
 ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
