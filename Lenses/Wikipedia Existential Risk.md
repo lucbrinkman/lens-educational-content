@@ -9,6 +9,7 @@ content::
 We continue with an overview of the main concepts regarding AI as a source of existential threat: what capabilities of this technology are considered first and foremost, and why the task of eliminating AI risks differs from similar tasks for other impressive technologies created by humanity.
 
 #### Article-excerpt
+to:: "the "evasion of human control"."
 
 #### Text
 content::
