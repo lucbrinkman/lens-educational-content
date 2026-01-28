@@ -15,7 +15,7 @@ that the characteristics of this technology present to humanity.
 source:: ![[../Lenses/Kurzgesagt software demo]]
 
 ## Lens:
-source:: ![[../Lenses/Wikipedia Existential Risk from AI]]
+source:: ![[../Lenses/WP Software demo]]
 
 ## Lens:
 source:: ![[../Lenses/Four Background Claims]]
