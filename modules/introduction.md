@@ -5,7 +5,8 @@ title: Introduction
 discussion: https://discord.com/channels/1440725236843806762/1465349126073094469
 ---
 # Page: Welcome
-## Text:
+id:: a1b2c3d4-5678-90ab-cdef-1234567890ab
+## Text
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
