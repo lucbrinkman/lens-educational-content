@@ -12,7 +12,7 @@ that the characteristics of this technology present to humanity.
 
 # Uncategorized:
 ## Lens:
-source:: ![[../Lenses/Kurzgesag]]
+source:: ![[../Lenses/Kurzgesagt software demo]]
 
 ## Lens:
 source:: ![[../Lenses/Wikipedia Existential Risk from AI]]
