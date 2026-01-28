@@ -8,21 +8,21 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
 
-![[../Lenses/A.I. - Humanity's Final Invention]]
+![[../../Lenses/A.I. - Humanity's Final Invention]]
 
 
 
-![[../Lenses/Wikipedia Existential Risk]]
+![[../../Lenses/Wikipedia Existential Risk]]
 
 
 
-![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
+![[../../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
 
 
 
 # Article: Four Background Claims (Optional)
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 optional:: true
 
 ## Text
@@ -32,7 +32,7 @@ This text explains exactly how the emergence of AI smarter than humans could bec
 ## Article-excerpt
 
 # Article: Worst-Case Thinking (Optional)
-source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
+source:: [[../../articles/buck-worst-case-thinking-in-ai-alignment]]
 optional:: true
 
 ## Text
