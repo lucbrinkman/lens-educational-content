@@ -76,6 +76,8 @@ Good regulator theorem: Any good regulator of a system is a model of said system
 
 The economics case feels so easy to point at that it's hard to find basic sources about it. Bastani on marginal cost converging to zero is probably too specific and also not public domain. I'd want to use marx, but possibly aesthetically unwise.
 
+
+
 cascades, cycles, insight
 
 diffuse cybernetics across domains (shard of invariant feedback) to direct cybernetics within a domain
