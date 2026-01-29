@@ -61,3 +61,5 @@ The user has now read Yudkowsky's analysis of recursive self-improvement and
 Tim Urban's exploration of accelerating progress and the road to superintelligence.
 Discuss how these perspectives relate to the earlier readings on takeoff speeds
 and the intelligence feedback loop.
+
+
