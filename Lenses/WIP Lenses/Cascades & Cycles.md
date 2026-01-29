@@ -4,7 +4,7 @@ id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 ### Article: Cascades, Cycles, Insight...
 source:: [[https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight]]
 
-#### Video-excerpt
+#### Article-excerpt
 from:: 0:00
 to:: 15:37
 
