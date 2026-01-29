@@ -2,7 +2,7 @@
 id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 ---
 ### Article: Cascades, Cycles, Insight...
-source:: [[https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight]]{>>Luc: use Obsiidan serach and search for this URL. You'll find <<}
+source:: [[https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight]]{>>Luc: use Obsiidan serach and search for this URL. You'll find the filename.md that contains this ar<<}
 
 #### Article-excerpt
 from:: "**Cascades** are when"
