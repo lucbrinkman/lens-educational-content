@@ -118,4 +118,4 @@ There is a type of process which reliably produces discontinuity beyond some cri
 
 ## Lens:
 source::
-![[Lens Edu/Lenses/Wikipedia Existential Risk]]
+![[Lens Edu/Lenses/ Existential Risk]]
