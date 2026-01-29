@@ -1,3 +1,3 @@
 ## Lens:
 source::
-![[../Lenses/Wikipedia Existential Risk]]
+![[../../Lenses/Wikipedia Existential Risk]]
