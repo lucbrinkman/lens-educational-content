@@ -85,7 +85,7 @@ agricultural revolution: first bit of excess grain for local feedback example?
 cascades, cycles, insight
 
 diffuse cybernetics across domains (shard of invariant feedback) to direct cybernetics within a domain
-Quiz difference between a cascade 
+Quiz difference between a cascade and a cycl
 what is an AI’s neutronmult factor section
 
 ...recursion, magic
