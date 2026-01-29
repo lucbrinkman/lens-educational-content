@@ -6,7 +6,7 @@ title: Intelligence Feedback Loop
 # Learning Goal
 source::
 There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
- Lens
+## Lens
 
 
 
@@ -112,3 +112,24 @@ A market too is a recursive system we can tell because anyone who isn’t going 
 For a neutron multiplication factor of intelligence to make sense you need a basic process of intelligence instead of a broad set of weakly related skills. Economic growth becomes general through the universal equivalent of money. Which can serve as neutrons everywhere. Intelligence has the heuristic search over prediction generators. A better search for predictions makes you better everywhere including in self improvement. This is necessarily a search for the true structure of reality. Intelligence is the thing converging towards being a good regulator of everything.
 
 Most domain specific research is cascatic: it makes you locally fitter and might help on analogous patterns elsewhere. Production without a market is also cascadic. A bad business model is cyclic but with k < 1 : You do earn a universal currency that could be reinvested anywhere, so the process is already fully cybernetically enforcing, but you do not generate enough of it to afford the work that was put in and so the reaction fizzles. 
+
+# Page: Welcome
+id:: a1b2c3d4-5678-90ab-cdef-1234567890ab
+## Text
+content::
+We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
+
+# Learning Outcome:
+source:: ![[../Learning Outcomes/AI is a big and kinds scary deal]]
+
+# Learning Outcome:
+source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
+
+# Uncategorized:
+## Lens:
+optional:: true
+source:: ![[../Lenses/Four Background Claims]]
+
+## Lens:
+optional:: true
+source:: ![[../Lenses/Worst-Case Thinking]]
