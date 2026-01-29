@@ -74,7 +74,7 @@ A cascade lacks a universal equivalent (capital, neutrinos, general heuristic se
 
 Good regulator theorem: Any good regulator of a system is a model of said system. A good regulator of reality broadly (a hyper-competent agent) is a model of reality. -> recursively optimized predictions are a feedback system.
 
-The economics case feels so easy to point at tha
+The economics case feels so easy to point at that it's hard to find 
 
 cascades, cycles, insight
 
