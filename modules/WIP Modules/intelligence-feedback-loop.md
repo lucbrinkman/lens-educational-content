@@ -107,4 +107,4 @@ A market too is a recursive system we can tell because anyone who isn’t going 
 
 For a neutron multiplication factor of intelligence to make sense you need a basic process of intelligence instead of a broad set of weakly related skills. Economic growth becomes general through the universal equivalent of money. Which can serve as neutrons everywhere. Intelligence has the heuristic search over prediction generators. A better search for predictions makes you better everywhere including in self improvement. This is necessarily a search for the true structure of reality. Intelligence is the thing converging towards being a good regulator of everything.
 
-Most domain specific research is cascatic: it makes you locally fitter and might help on analogous patterns elsewhere. Production without a market is also cascadic. A bad business model is cyclic but with k < 1 : You 
+Most domain specific research is cascatic: it makes you locally fitter and might help on analogous patterns elsewhere. Production without a market is also cascadic. A bad business model is cyclic but with k < 1 : You do earn a universa
