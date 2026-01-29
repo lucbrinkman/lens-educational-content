@@ -4,7 +4,7 @@ slug: intelligence-feedback-loop
 title: Intelligence Feedback Loop
 ---
 Learning Goal
-There is a type of process which reliably produces discontinuity beyond some critical mass
+There is a type of process which reliably produces discontinuity beyond some critical mass. 
 
 # Article: Introduction
 source:: [[../../articles/intelligence-feedback-loop-lesson-intro]]
