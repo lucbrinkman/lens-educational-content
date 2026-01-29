@@ -11,7 +11,9 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
+source:: ![[../Learning Outcomes/WIP Learning Outcomes/WIP Learning Outcomes/AI is a big and kinds scary deal]]
+# Learning Outcome:
+source:: ![[../Learning Outcomes/WIP Some of the most clearly knowledgeable people are worried about existential risk]]
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
