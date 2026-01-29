@@ -8,6 +8,7 @@ source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 from:: 0:00
 to:: 15:37
 
+
 #### Text
 content::
 Which objection stood out most to you?
