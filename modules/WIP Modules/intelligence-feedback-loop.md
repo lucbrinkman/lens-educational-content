@@ -64,4 +64,4 @@ and the intelligence feedback loop.
 
 
 The game monopoly
-A positive feedbac loop is a system in which marginal differences multiply in such a way as to quickly dominate the system: Having even slightly mo
+A positive feedbac loop is a system in which marginal differences multiply in such a way as to quickly dominate the system: Having even slightly more capital to reinvest in the next round will 
