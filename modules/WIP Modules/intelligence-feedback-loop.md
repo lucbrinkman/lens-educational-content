@@ -78,6 +78,8 @@ The economics case feels so easy to point at that it's hard to find basic source
 
 cite wiener/ashby for some basic cybernetic control theory? might be too abstract
 
+agric
+
 cascades, cycles, insight
 
 diffuse cybernetics across domains (shard of invariant feedback) to direct cybernetics within a domain
