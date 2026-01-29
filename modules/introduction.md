@@ -13,8 +13,6 @@ We begin by examining the potential of AI and the risks and opportunities that t
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
 # Learning Outcome:
-source:: ![[../Learning Outcomes/WIP Some of the most clearly knowledgeable people are worried about existential risk]]
-# Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
 # Uncategorized:
