@@ -6,7 +6,9 @@ title: Intelligence Feedback Loop
 # Learning Goal
 source::
 There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
-## Lens
+Lens
+
+
 
 # Article: Introduction
 source:: [[../../articles/intelligence-feedback-loop-lesson-intro]]
