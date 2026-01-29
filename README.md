@@ -84,6 +84,7 @@ Example:
 #### Lenses
 e.g. `Lens Educational Content/Lenses/lens.md`
 Required frontmatter: `id`
+
 Valid section types: `Video`, `Article`, `Text`, `Chat`
 
 Any number of
@@ -115,6 +116,4 @@ Lorum Ipsum
 instructions::
 You're an AI tutor
 ```
-
-test edit via normal Edit tool (file opened in Obsidian)
 
