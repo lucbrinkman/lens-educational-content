@@ -12,7 +12,7 @@ We begin by examining the potential of AI and the risks and opportunities that t
 
 # Learning Outcome:
 source:: ![[Lens Edu/Learning Outcomes/AI is a big and kinds scary deal]]
-
+Some of the most clearly knowledgeable people are worried about existential risk
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
