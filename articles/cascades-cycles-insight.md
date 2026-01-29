@@ -8,7 +8,7 @@ source_url: https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-in
 
 *Five sources of discontinuity:  1, 2, and 3...*
 
-**Cascades**are when one thing leads to another.  Human brains are effectively discontinuous with chimpanzee brains due to a whole bag of design improvements, even though they and we share 95% genetic material and only a few million years have elapsed since the branch.  Why this whole series of improvements in us, relative to chimpanzees?  Why haven't some of the same improvements occurred in other primates?
+**Cascades** are when one thing leads to another.  Human brains are effectively discontinuous with chimpanzee brains due to a whole bag of design improvements, even though they and we share 95% genetic material and only a few million years have elapsed since the branch.  Why this whole series of improvements in us, relative to chimpanzees?  Why haven't some of the same improvements occurred in other primates?
 
 Well, this is not a question on which one may speak with authority ([so far as I know](/lw/kj/no_one_knows_what_science_doesnt_know)).  But I would venture an unoriginal guess that, in the hominid line, one thing led to another.
 
