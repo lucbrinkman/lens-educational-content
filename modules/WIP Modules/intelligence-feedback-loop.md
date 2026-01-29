@@ -5,7 +5,7 @@ title: Intelligence Feedback Loop
 ---
 ## Lens:
 source::
-![[/Lenses/Wikipedia Existential Risk]]
+![[Lens Edu/Lenses/Wikipedia Existential Risk]]
 
 
 
