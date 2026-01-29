@@ -77,7 +77,7 @@ Good regulator theorem: Any good regulator of a system is a model of said system
 
 cascades, cycles, insight
 
-diffuse cybernetic across domains (shard of invariant feedack) to direct cybernetics within a domain
+diffuse cybernetics across domains (shard of invariant feedback) to direct cybernetics within a domain
 
 what is an AI’s neutronmult factor section
 
