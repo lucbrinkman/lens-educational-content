@@ -4,7 +4,7 @@ slug: intelligence-feedback-loop
 title: Intelligence Feedback Loop
 ---
 Learning Goal
-There is a type of process which reliably 
+There is a type of process which reliably produces discontinuity 
 
 # Article: Introduction
 source:: [[../../articles/intelligence-feedback-loop-lesson-intro]]
