@@ -3,7 +3,7 @@ id: 3eb56340-b349-4f09-aef8-1395558c353f
 slug: intelligence-feedback-loop
 title: Intelligence Feedback Loop
 ---
-’Learning Goal
+# Learning Goal
 There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
 
 # Article: Introduction
