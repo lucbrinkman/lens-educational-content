@@ -6,7 +6,7 @@ source:: [[https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-ins
 
 #### Article-excerpt
 from:: "**Cascades** are when"
-to:: "15:37"
+to:: "_What is the AI's average_ _neutron multiplication factor?_"
 
 
 #### Text
