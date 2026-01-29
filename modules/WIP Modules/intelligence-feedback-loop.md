@@ -67,4 +67,4 @@ The game monopoly
 A positive feedbac loop is a system in which marginal differences multiply in such a way as to quickly dominate the system: Having even slightly more capital to reinvest in the next round will lead to an exponentially increasing gap between you and your competitor. 
 
 Clean vs unclean cybernetics (cascades vs cycles)
-A cascade lacks a universal equivalent (capital, neutrinos, general heuristic search). A cascade is a series of problems which share some small mutually applicable shards so that an insight in one probabilisticly opens up  some improvements in the others but without any guarantees. You don't *always* get more money  
+A cascade lacks a universal equivalent (capital, neutrinos, general heuristic search). A cascade is a series of problems which share some small mutually applicable shards so that an insight in one probabilisticly opens up  some improvements in the others but without any guarantees. You don't *always* get more money to spend in the next round on anything 
