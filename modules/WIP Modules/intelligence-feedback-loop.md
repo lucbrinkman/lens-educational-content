@@ -77,7 +77,7 @@ Good regulator theorem: Any good regulator of a system is a model of said system
 
 cascades, cycles, insight
 
-diffuse cycbernetics across domains (shard of invariant feedack) to direct cybernetics within a domain
+diffuse cybernetic across domains (shard of invariant feedack) to direct cybernetics within a domain
 
 what is an AI’s neutronmult factor section
 
@@ -87,7 +87,7 @@ somewhat abstract, maybe passage about why optimization of speed optiization wit
 
 Infinity chain? Maybe the next step is always unforecastable?
 
-Existance proof of feedback that wors across shorter than expected timespans (human civ). There should be no inherent reason for time to be bounded there.
+Existence proof of feedback that work across shorter than expected timespans (human civ). There should be no inherent reason for time to be bounded there.
 
 
 Safety info term explanion
