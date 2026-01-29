@@ -1,7 +1,7 @@
 ---
 id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 ---
-### Article: # Cascades, Cycles, Insight...](https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight)
+### Article: Cascades, Cycles, Insight...
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
 #### Video-excerpt
