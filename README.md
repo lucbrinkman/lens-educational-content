@@ -40,7 +40,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 This is implemented as shown below:
 #### Modules
 e.g. `Lens Educational Content/Modules/module.md`
-Required frontmatter: `slug`, `title`, `id` (type:
+Required frontmatter: `slug`, `title`, `id`
 
 Any number of
 \# Text Page:
@@ -83,7 +83,7 @@ Example:
 
 #### Lenses
 e.g. `Lens Educational Content/Lenses/lens.md`
-
+Required frontmatter: `id`
 Valid section types: `Video`, `Article`, `Text`, `Chat`
 
 Any number of
