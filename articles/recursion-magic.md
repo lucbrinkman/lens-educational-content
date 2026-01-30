@@ -4,8 +4,6 @@ author: Eliezer Yudkowsky
 date: 2008-11-25
 source_url: https://www.lesswrong.com/posts/rJLviHqJMTy8WQkow/recursion-magic
 ---
-**Followup to**: [Cascades, Cycles, Insight...](/lw/w5/cascades_cycles_insight)
-
 *...4, 5 sources of discontinuity.*
 
 ## Recursion
