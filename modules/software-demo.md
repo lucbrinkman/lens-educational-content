@@ -21,6 +21,8 @@ source:: ![[../Lenses/WP Software demo]]
 source:: ![[../Lenses/Four Background Claims]]
 # Page: short intermediate
 id:: 5ec4268f-757c-4ef7-89c1-a24b35cea850
+
+## Text
 content::
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vulputate leo sed leo dapibus, at congue turpis feugiat. Pellentesque lobortis lorem id ipsum maximus, efficitur blandit odio consequat. Sed ut rhoncus justo. Curabitur faucibus tincidunt enim, vitae sodales dui viverra eget. Suspendisse non semper tellus. Duis eget velit ipsum. Nunc facilisis eu arcu id malesuada. Aliquam sit amet lacus sed ligula eleifend eleifend. Aenean ultrices, quam sit amet euismod finibus, nunc sapien faucibus sem, eu mattis est lectus at odio. Sed consequat neque quis arcu tempor, sit amet euismod ex dapibus. Morbi quis mi at velit dignissim bibendum. Mauris augue orci, porta id interdum a, consectetur et tellus. Morbi convallis odio ipsum, eget feugiat felis vulputate sed. Ut venenatis nunc mattis bibendum efficitur. Duis nibh erat, ullamcorper eu metus et, tincidunt volutpat ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
