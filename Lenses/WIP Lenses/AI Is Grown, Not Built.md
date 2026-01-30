@@ -9,7 +9,7 @@ content::
 We don’t "build" intelligence brick by brick; instead, we create conditions for it to develop using massive datasets. This "growth" leads to emergent properties, skills that the system wasn't explicitly taught and that often surprise the creators themselves. The first material in this module examines these features of the current AI development paradigm and explores the consequences of such an approach.
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>"
+to:: "and we’re already seeing the warning signs."
 
 #### Text
 content::
