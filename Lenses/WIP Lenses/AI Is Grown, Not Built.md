@@ -2,7 +2,7 @@
 id: 01f6df31-099f-48ed-adef-773cc4f947e4
 ---
 ### Article: AI Is Grown, Not Built
-source:: [[]]
+source:: [[]] https://archive.is/blU6r
 
 #### Text
 content::
