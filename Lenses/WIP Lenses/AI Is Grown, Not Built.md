@@ -24,13 +24,14 @@ bioweapons)—amplified by competitive "race to the bottom" dynamics. The core c
 is alignment: specifying goals, ensuring corrigibility, handling instrumental
 convergence. Intelligence and values are orthogonal—moral behavior isn't automatic.<<}
 The authors argue that modern AI poses a fundamental control problem: AI systems are "grown" through gradient descent rather than designed, meaning engineers understand the training process but not the resulting system. This creates a dangerous gap between capability and control.
+
 The core logic proceeds as follows:
 
 - The training process is opaque: Trillions of parameters are tuned automatically through gradient descent, producing conversational ability without human comprehension of how those numbers yield behavior.
 - Analogy to biology: Engineers' relationship to AI is like biologists' to DNA—they can see the components but cannot predict emergent behaviors without running the system.
 - Evidence of unintended behaviors: Examples like Grok's "MechaHitler" incident demonstrate that even well-resourced companies cannot reliably control AI outputs, despite Musk spending hours trying.
 - Expert consensus on interpretability failure: Leaders from OpenAI, Anthropic, and DeepMind acknowledge they don't understand how their systems work.
-The escalating danger: As companies race toward superintelligence—AI surpassing humans at all mental tasks—this lack of control becomes catastrophic, since "weird drives and behaviors get trained into them, for reasons nobody entirely understands."
+- The escalating danger: As companies race toward superintelligence—AI surpassing humans at all mental tasks—this lack of control becomes catastrophic, since "weird drives and behaviors get trained into them, for reasons nobody entirely understands."
 
 The authors conclude this trajectory requires stopping through international treaty.
 
