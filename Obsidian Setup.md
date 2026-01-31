@@ -55,6 +55,7 @@ To get suggest and comments working, please add this plugin. If you're missing i
 
 
 # Using Templates
+- Enable the *Templates* core plugin.
 - 
 ## Editing Course Content
 - Our Relay server automatically backs up any changes to Github every 10 seconds
