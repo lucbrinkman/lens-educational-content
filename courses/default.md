@@ -22,7 +22,5 @@ title: AI Safety Course
 
 # Module: [[../modules/coming-soon]]
 
-# Module: [[../modules/feedback-loops]]
-
 # Meeting: 4
 
