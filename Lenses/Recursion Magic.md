@@ -9,7 +9,7 @@ content::
 Getting to plug the outputs of a process back into the input does not necessarily lead to an explosion though. Consider the case of EURISKO.
 
 #### Article-excerpt
-from:: "Cascades are when"
+from:: "We have historical records aplenty"
 to:: "neutron multiplication factor?_"
 
 #### Text
