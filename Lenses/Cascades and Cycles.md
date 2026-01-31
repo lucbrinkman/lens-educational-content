@@ -6,7 +6,7 @@ source:: [[../articles/cascades-cycles-insight]]
 
 #### Text
 content::
-Cybernetics Hold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
+Cybernetics is the studiy of systemsHold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
 
 #### Article-excerpt
 from:: "Cascades are when"
