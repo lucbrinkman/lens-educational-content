@@ -22,7 +22,7 @@ TLDR of what the user just read:
 An article that explains positive feedback loops especially with regards to civilisational competence. It explains "cascades" as breakthroughs which probabilisticly  opens up other breakthroughs in related fields and "cycles" as processes which generate some excess quantity that can be reinvested into the same process. Examples provided are neutron multiplication in radioactive materials as a cycle  and the development of writing leading to various civilisational breakthroughs as a cascade. 
 
 topics to explore:
-- Does it seem like 
+- Does it seem like intelligence has some universal equivalent tha
 - How does instrumental convergence counter "just don't put in bad goals"?
 - Why do implicit goals make systems less safe, not more?
 - What's the flaw in "human-AI teams will keep things safe"?
