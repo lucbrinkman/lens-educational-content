@@ -27,20 +27,21 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ## Structure
 ### Course structure
-**Course** - list of
-: **Module** - list of
-:: **Learning outcome** - where each has three params
-::: 1. Name of outcome
-::: 2. **Test** - how we'll assess whether the person learned the objective
-::: 3. **Lens** - a learning flow which has
-:::: A. One **Resource** {article, video, a section from one of them, or a little app to teach something}
-:::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
-:::: C. Some extra bits like framing texts etc (optional)
+**Course** - list of 
+: **Week** - where each week has 1 or more
+:: **Module** - list of
+::: **Learning outcome** - where each has three params
+:::: 1. Name of outcome
+:::: 2. **Test** - how we'll assess whether the person learned the objective
+:::: 3. **Lens** - a learning flow which has
+::::: A. One **Resource** {article, video, a section from one of them, or a little app to teach something}
+::::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
+::::: C. Some extra bits like framing texts etc (optional)
 
 This is implemented as shown below:
 #### Modules
 e.g. `Lens Educational Content/Modules/module.md`
-Required frontmatter: `slug`, `title`
+Required frontmatter: `slug`, `title`, `id`
 
 Any number of
 \# Text Page:
@@ -51,6 +52,7 @@ Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and tar
 Example:
 ```md
 # Text Page:
+id::
 content::
 Lorum Ipsum
 
@@ -63,6 +65,7 @@ Lorum Ipsum
 
 #### Learning Outcomes
 e.g. `Lens Educational Content/Learning Outcomes/learning-outcome.md`
+Required frontmatter: `id`
 
 Any number of
 \## Test:
@@ -82,6 +85,7 @@ Example:
 
 #### Lenses
 e.g. `Lens Educational Content/Lenses/lens.md`
+Required frontmatter: `id`
 
 Valid section types: `Video`, `Article`, `Text`, `Chat`
 
@@ -114,6 +118,4 @@ Lorum Ipsum
 instructions::
 You're an AI tutor
 ```
-
-test edit via normal Edit tool (file opened in Obsidian)
 
