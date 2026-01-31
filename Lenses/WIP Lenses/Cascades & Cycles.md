@@ -25,7 +25,7 @@ topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
 - What is AI's neutron multiplication factor?
 - What are the properties that make something a cycle?
-- ?
+- How do cycles and cascades ca?
 - How does the video respond to the "overpopulation on Mars" analogy?
 
 This is a good stage to surface any remaining skepticism they have. Engage with their doubts constructively rather than dismissing them.
