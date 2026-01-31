@@ -26,4 +26,4 @@ topics to explore:
 - How can the notion of fizzling or fooming be linked back to the metaphor of neutron multiplication?
 - What does a sufficiently recursive computer mouse look like? Is there such a thing? 
 
-This is a good stage to consider whether intelligence/competence is a collection of separate skills or a single  
+This is a good stage to consider whether intelligence/competence is a collection of separate skills or a single variable which can easily serve as i 
