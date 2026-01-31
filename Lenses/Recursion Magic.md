@@ -14,7 +14,7 @@ to:: "recursive enough."
 
 #### Text
 content::
-If the leftover grain only 
+If the leftover grain only produced exactly the same amout of leftover
 #### Chat: A more recursive mouse
 instructions::
 TLDR of what the user just read:
