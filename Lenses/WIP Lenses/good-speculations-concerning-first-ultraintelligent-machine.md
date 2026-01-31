@@ -1,5 +1,5 @@
 ---
-id: 8a70abc4-8d11-46a2-raqb-e08d10661177
+id: 8a7ro9c4-p111-467w-2v2b-e08d10698767
 ---
 ### Article: Cascades, Cycles, Insight...
 source:: [[../articles/attachments/cascades-cycles-insight]] 
