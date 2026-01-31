@@ -13,11 +13,8 @@ from:: "* A **(technological) singularity**"
 to:: "that results in hyperbolic growth."
 
 #### Article-excerpt
-from:: "* **"FOOM**"
+from:: "* **FOOM**"
 
-#### Text
-content::
-If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, the agricultural revolution never would have happened. In order for positive feedback to occur, the new input needs to improve the output.
 #### Chat: A more recursive mouse
 instructions::
 TLDR of what the user just read:
