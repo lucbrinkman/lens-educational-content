@@ -25,7 +25,7 @@ TLDR of what the user just read:
 An article by I.J. Good speculating about the cognitive infrastructure of a thinking machine more capable than any human. He importantly claims that he will only speculate about the first agent of this kind since the second will be built by the first according to design considerations humans cannot yet fathom. Good claims that this might happen by way of the AI building a wholly different successor or by self-modifying until it becomes unrecognisable. He tries to measure the economic value of such a system in "mega-keynes" based on the fact that John Maynard Keynes was estimated to be the most valuable human to the world economy. 
 
 topics to explore:
-- If e
+- If evolution 
 - What is AI's neutron multiplication factor?
 - What are the properties that make something a cycle?
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
