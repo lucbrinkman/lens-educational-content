@@ -13,7 +13,7 @@ to:: "and we’re already seeing the warning signs."
 
 #### Text
 content::
-After reading this article, if you had to explain to a friend the main difference between how ChatGPT was created versus how a typical smartphone app was created, what would you say?{>>Example: In your own words, what is instrumental convergence?<<}
+After reading this article, if you had to explain to a friend the main difference between how ChatGPT was created versus how a typical smartphone app was created, what would you say?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
