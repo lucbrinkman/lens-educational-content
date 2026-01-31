@@ -6,7 +6,8 @@ discussion: <discord url>
 
 ## Lens:
 source::
-![[cycles]]
+![[../Lenses/Cascades and Cycles|Cascades and Cycles]]
 
 ## Lens:
 source::
+![[../Lenses/Speculations concerning the first ultraintelligent machine|Speculations concerning the first ultraintelligent machine]]
