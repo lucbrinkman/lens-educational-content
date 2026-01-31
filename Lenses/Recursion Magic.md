@@ -18,7 +18,7 @@ What are the properties that make something a cycle rather than a cascade? Can y
 #### Chat: Discussion on Cycles
 instructions::
 TLDR of what the user just read:
-An article that explains EURISKO, an optimising compiler, and examines why 
+An article that explains EURISKO, an optimising compiler, and examines why such a program, if 
 
 topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
