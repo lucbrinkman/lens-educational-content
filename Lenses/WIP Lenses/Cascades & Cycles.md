@@ -15,7 +15,7 @@ to:: "_What is the AI's average_ _neutron multiplication factor?_"
 
 #### Text
 content::
-What are the properties that make something a cycle rather than a cascade? Can you think of cycle
+What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form 
 #### Chat: Discussion on Objections
 instructions::
 TLDR of what the user just watched:
