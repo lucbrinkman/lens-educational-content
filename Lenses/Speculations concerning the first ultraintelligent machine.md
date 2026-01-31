@@ -22,7 +22,7 @@ And if the first ultra intelligent machine is wort a mega-keynes, how much might
 #### Chat: Intelligences building intelligences
 instructions::
 TLDR of what the user just read:
-An article by I.J. Good 
+An article by I.J. Good speculating about the 
 
 topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
