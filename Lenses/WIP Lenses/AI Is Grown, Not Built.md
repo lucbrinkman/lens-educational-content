@@ -42,7 +42,7 @@ Discussion topics to explore:{>>Examples:
 - What do skeptics like Yann LeCun argue, and what are the counter-arguments?
 - Why might "kill switches" fail against superintelligence?<<}
 - The authors claim engineers understand the training process but not the resulting AI. Is this fundamentally different from traditional software, where a programmer might understand each line of code but struggle to predict complex emergent behaviors in a large system? Where exactly does the "understanding gap" become qualitatively different?
-- `<Discussion point 2>`
+- The Grok "MechaHitler" incident is presented as evidence that even experts cannot control grown systems. What would count as counter-evidence? If a company successfully prevented such behaviors, would that prove grown systems _can_ be controlled, or just that they got lucky this time?
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
