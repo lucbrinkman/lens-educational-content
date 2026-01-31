@@ -18,7 +18,7 @@ to:: "value at a megakeynes."
 
 #### Text
 content::
-What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?
+And if
 #### Chat: Discussion on Objections
 instructions::
 TLDR of what the user just read:
