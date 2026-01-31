@@ -10,7 +10,7 @@ Hold these ideas about cybernetics in mind as you read the following article abo
 
 #### Article-excerpt
 from:: "Cascades are when"
-to:: "_What is the AI's average_ _neutron multiplication factor?_"
+to:: "_What is the AI's average neutron multiplication factor?_"
 
 #### Text
 content::
