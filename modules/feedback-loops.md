@@ -8,6 +8,6 @@ discussion:
 id:: e0f8913a-66a2-4fc9-bbe8-bf72a95b003e
 ## Text
 content::
-Much of the world is dominated by positive feedback loops. The first bit of grain that was left over and got re-planted sparked the agricultural revolution. Might the development
+Much of the world is dominated by positive feedback loops. The first bit of grain that was left over and got re-planted sparked the agricultural revolution. Might the development of intelligene also contain such self-amplifying 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
