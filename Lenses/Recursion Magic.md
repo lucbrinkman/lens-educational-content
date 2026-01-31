@@ -14,7 +14,7 @@ to:: "recursive enough."
 
 #### Text
 content::
-If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, the agricultural revolution never would have happened. In order for positive feedback to occur, the new input needs to inc
+If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, the agricultural revolution never would have happened. In order for positive feedback to occur, the new input needs to improve the outp
 #### Chat: A more recursive mouse
 instructions::
 TLDR of what the user just read:
