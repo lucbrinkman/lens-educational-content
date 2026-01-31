@@ -8,7 +8,7 @@ title: AI Safety Course
 
 # Meeting: 1
 
-# Module: [[../modules/Template]]
+# Module: [[../modules/WIP Modules/Template]]
 
 # Module: [[../modules/coming-soon]]
 
