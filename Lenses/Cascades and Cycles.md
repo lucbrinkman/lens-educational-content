@@ -6,7 +6,7 @@ source:: [[../articles/cascades-cycles-insight]]
 
 #### Text
 content::
-Cybernetics is the study of systems whose output is used as their input: Successful investment produces funds which can then be invested again. There are negative feedback systems which hold themselves in equilibrium and positive feedback systems Hold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
+Cybernetics is the study of systems whose output is used as their input: Successful investment produces funds which can then be invested again. There are negative feedback systems which hold themselves in equilibrium and positive feedback systems which muHold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
 
 #### Article-excerpt
 from:: "Cascades are when"
