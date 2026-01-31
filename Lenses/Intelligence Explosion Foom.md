@@ -6,7 +6,7 @@ source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-tak
 
 #### Text
 content::
-Let's get acquainted with some of the terminology used for things going very fast very quickly
+Let's get acquainted with some of the terminology used for things going very fast very quickly.
 
 #### Article-excerpt
 from:: "We have historical records aplenty"
