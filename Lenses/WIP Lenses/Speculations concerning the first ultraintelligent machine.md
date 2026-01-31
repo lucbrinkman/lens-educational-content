@@ -12,6 +12,10 @@ Hold these ideas about cybernetics in mind as you read the following article abo
 from:: "The survival of man depends"
 to:: "in his own image."
 
+#### Article-excerpt
+from:: "The survival of man depends"
+to:: "in his own image."
+
 #### Text
 content::
 What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?
