@@ -6,7 +6,7 @@ source:: [[../articles/cascades-cycles-insight]]
 
 #### Text
 content::
-Hold these ideas about cybernetics in mind as you read the following article about types of feedback as they pertain to intelligence.
+Hold th in mind as you read the following article about types of feedback as they pertain to intelligence.
 
 #### Article-excerpt
 from:: "Cascades are when"
