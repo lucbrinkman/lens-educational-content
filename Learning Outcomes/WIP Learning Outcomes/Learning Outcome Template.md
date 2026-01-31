@@ -1,8 +1,11 @@
 ---
-id: <uuid>
-discussion: https://discord.com/channels/1440725236843806762/1465343271932002488
+id: <uuid, generate at https://www.uuidgenerator.net/version4>
+discussion: <discord u rl>
 ---
 ## Test:
 
 ## Lens:
-source:: ![[../Lenses/10 reasons]]
+source::
+![[]]
+## Lens:
+source::
