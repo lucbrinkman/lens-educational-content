@@ -24,7 +24,6 @@ topics to explore:
 - What would the optimisation have to be pointed at to cause an intelligence explosion?
 - Where do speed and competence start to diverge?
 - How can the notion of fizzling or fooming be linked back to the metaphor of neutron multiplication?
-- How do cycles and cascades cause discontinuity in an otherwise gradual growth?
-- How applicable do these concepts seem to artificial intelligence?
+- W
 
 This is a good stage to raise worry about the ability to predict a system's abilities at time t+1 based on its abilities at time t.
