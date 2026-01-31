@@ -6,7 +6,7 @@ source:: [[../articles/recursion-magic]]
 
 #### Text
 content::
-The fact that a process is recursive does not necessarily mean that it leads to an explosion though. Consider the case of EURISKO
+The fact that a process is recursive does not necessarily mean that it leads to an explosion though. Consider the case of EURISKO.
 
 #### Article-excerpt
 from:: "Cascades are when"
