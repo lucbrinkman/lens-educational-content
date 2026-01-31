@@ -24,29 +24,26 @@ jobs:
         run: |
           CURRENT_SHA=$(git rev-parse HEAD)
           echo "Current commit: $CURRENT_SHA"
-          
+
           # Skip if commit is less than 5 minutes old (still editing)
           COMMIT_TIME=$(git log -1 --format=%ct)
           NOW=$(date +%s)
           COMMIT_AGE=$((NOW - COMMIT_TIME))
-          
+
           if [ $COMMIT_AGE -lt 300 ]; then
-            echo "Commit is ${COMMIT_AGE}s old (< 5min), skipping"
-            echo "should_run=false" >> $GITHUB_OUTPUT
-            exit 0
+            echo "::notice title=Validation Skipped::Commit is ${COMMIT_AGE}s old (< 5min), still being edited"
+            exit 78
           fi
-          
+
           # Check if this commit already has a validation status
-          # (Set after validation runs, regardless of pass/fail)
           VALIDATED=$(gh api repos/${{ github.repository }}/commits/$CURRENT_SHA/statuses \
             --jq '.[] | select(.context == "validation/modules") | .state' 2>/dev/null | head -1 || echo "")
-          
+
           if [ -n "$VALIDATED" ]; then
-            echo "Commit $CURRENT_SHA already validated (result: $VALIDATED), skipping"
-            echo "should_run=false" >> $GITHUB_OUTPUT
-            exit 0
+            echo "::notice title=Validation Skipped::Commit already validated (result: $VALIDATED)"
+            exit 78
           fi
-          
+
           echo "Will validate commit $CURRENT_SHA"
           echo "should_run=true" >> $GITHUB_OUTPUT
           echo "sha=$CURRENT_SHA" >> $GITHUB_OUTPUT
