@@ -22,7 +22,7 @@ An article that explains EURISKO, an optimising compiler, and examines why such 
 
 topics to explore:
 - What would the optimization have to be pointed at to cause an intelligence explosion?
-- What is AI's neutron multiplication factor?
+- where d
 - What are the properties that make something a cycle?
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
 - How applicable do these concepts seem to artificial intelligence?
