@@ -6,11 +6,9 @@ discussion:
 ---
 # Page: Welcome
 id:: e0f8913a-66a2-4fc9-bbe8-bf72a95b003e
-
 ## Text
 content::
-
-
+Hello world
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
 
