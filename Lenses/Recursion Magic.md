@@ -14,7 +14,7 @@ to:: "recursive enough."
 
 #### Text
 content::
-If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, the agricultural revolution never would have happened. in order for 
+If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, the agricultural revolution never would have happened. In order for positive beedback to occur
 #### Chat: A more recursive mouse
 instructions::
 TLDR of what the user just read:
