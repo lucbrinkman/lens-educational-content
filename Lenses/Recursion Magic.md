@@ -10,7 +10,7 @@ Getting to plug the outputs of a process back into the input does not necessaril
 
 #### Article-excerpt
 from:: "We have historical records aplenty"
-to:: "A computer mouse isn't recursive enough."
+to:: "recursive enough."
 
 #### Text
 content::
