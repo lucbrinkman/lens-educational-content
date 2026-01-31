@@ -18,7 +18,7 @@ to:: "value at a megakeynes."
 
 #### Text
 content::
-And if the first ultra intelligent machine is wort a mega-k 
+And if the first ultra intelligent machine is wort a mega-keynes, how much might the machine it  
 #### Chat: Discussion on Objections
 instructions::
 TLDR of what the user just read:
