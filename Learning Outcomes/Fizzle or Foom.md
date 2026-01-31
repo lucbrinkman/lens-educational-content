@@ -6,7 +6,7 @@ discussion: <discord url>
 
 ## Lens:
 source::
-![[../Lenses/Intelligence Explosion Foom|Intelligence Explosion Foom]]
+![[What are the differences between a singularity, an intelligence explosion, and a hard takeoff?|What are the differences between a singularity, an intelligence explosion, and a hard takeoff?]]
 
 ## Lens:
 source::
