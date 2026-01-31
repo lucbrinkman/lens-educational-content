@@ -26,4 +26,4 @@ topics to explore:
 - How can the notion of fizzling or fooming be linked back to the metaphor of neutron multiplication?
 - What does a sufficiently recursive computer mouse look like? Is there such a thing? 
 
-This is a good stage to raise worry about the ability to predict a system's abilities at time t+1 based on its abilities at time t.
+This is a good stage to consider whether intellige
