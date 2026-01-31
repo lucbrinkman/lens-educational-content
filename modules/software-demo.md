@@ -13,7 +13,7 @@ that the characteristics of this technology present to humanity.
 # Uncategorized:
 ## Lens:
 source::
-![[../Lenses/Cascades and Cycles|Cascades & Cycles]]
+![[../Lenses/Cascades and Cycles|Cascades and Cycles]]
 
 
 ## Lens:
