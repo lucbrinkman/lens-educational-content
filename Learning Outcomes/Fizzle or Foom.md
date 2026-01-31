@@ -6,7 +6,7 @@ discussion: <discord url>
 
 ## Lens:
 source::
-![[../Lenses/Cascades and Cycles|Cascades and Cycles]]
+![[../Lenses/Recursion Magic|Cascades and Cycles]]
 
 ## Lens:
 source::
