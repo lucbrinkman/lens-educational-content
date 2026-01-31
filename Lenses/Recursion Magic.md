@@ -18,7 +18,7 @@ What are the properties that make something a cycle rather than a cascade? Can y
 #### Chat: Discussion on Cycles
 instructions::
 TLDR of what the user just read:
-An article that explains EURISKO, an optimising compiler, and examines why such a program, if plugged into itself recursively does not generate an infinite degree of program optimisation. 
+An article that explains EURISKO, an optimising compiler, and examines why such a program, if plugged into itself recursively does not generate an infinite degree of program optimisation. The a
 
 topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
