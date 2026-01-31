@@ -6,7 +6,7 @@ source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-tak
 
 #### Text
 content::
-Getting to plug the outputs of a process back into the input does not necessarily lead to an explosion though. Consider the case of EURISKO.
+Let's get
 
 #### Article-excerpt
 from:: "We have historical records aplenty"
