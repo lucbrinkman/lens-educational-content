@@ -18,7 +18,7 @@ to:: "value at a megakeynes."
 
 #### Text
 content::
-And if
+And if the first ultraintelligent 
 #### Chat: Discussion on Objections
 instructions::
 TLDR of what the user just read:
