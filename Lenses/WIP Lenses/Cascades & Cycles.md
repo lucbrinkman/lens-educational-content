@@ -28,4 +28,4 @@ topics to explore:
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
 - How applicable do these concepts seem to artificial intelligence?
 
-This is a good stage to surface any remaining skepticism they have. Engage with their doubts constructively rather than dismissing them.
+This is a good stage to raise 
