@@ -9,7 +9,7 @@ content::
 Let's get acquainted with some of the terminology used for things going very fast very quickly.
 
 #### Article-excerpt
-from:: "We have historical records aplenty"
+from:: "* A **(technological) singularity**"
 to:: "recursive enough."
 
 #### Text
