@@ -3,22 +3,24 @@ name: Validate
 on:
   pull_request:
     branches: [main]
-  workflow_dispatch:  # Manual "Run workflow" button
+  workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
+    - cron: '*/5 * * * *'
 
 jobs:
-  validate:
+  check:
+    if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event_name == 'pull_request' && github.head_ref || 'staging' }}
+          ref: staging
           fetch-depth: 2
 
-      - name: Check if should run (for scheduled runs)
+      - name: Check if should run
         id: check
-        if: github.event_name == 'schedule'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -46,27 +48,38 @@ jobs:
 
           echo "Will validate commit $CURRENT_SHA"
           echo "should_run=true" >> $GITHUB_OUTPUT
-          echo "sha=$CURRENT_SHA" >> $GITHUB_OUTPUT
+
+  validate:
+    needs: check
+    if: always() && (github.event_name != 'schedule' || needs.check.outputs.should_run == 'true')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'pull_request' && github.head_ref || 'staging' }}
+          fetch-depth: 2
+
+      - name: Get commit SHA
+        id: sha
+        run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
 
       - name: Set up Python
-        if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Validate lesson format
         id: validate
-        if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
         run: |
           curl -sO https://raw.githubusercontent.com/lucbrinkman/ai-safety-course-platform/staging/core/modules/markdown_validator.py
           python markdown_validator.py ./modules/ ./courses/
 
       - name: Record validation result
-        if: (github.event_name != 'schedule' || steps.check.outputs.should_run == 'true') && always()
+        if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          SHA=${{ steps.check.outputs.sha || github.sha }}
+          SHA=${{ steps.sha.outputs.sha }}
           if [ "${{ steps.validate.outcome }}" == "success" ]; then
             STATE="success"
             DESC="Validation passed"
