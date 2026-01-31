@@ -24,6 +24,6 @@ topics to explore:
 - What would the optimisation have to be pointed at to cause an intelligence explosion?
 - Where do speed and competence start to diverge?
 - How can the notion of fizzling or fooming be linked back to the metaphor of neutron multiplication?
-- W
+- What does a sufficiently recursive compute 
 
 This is a good stage to raise worry about the ability to predict a system's abilities at time t+1 based on its abilities at time t.
