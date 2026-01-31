@@ -28,6 +28,6 @@ topics to explore:
 - We are a shape of intelligence grown by evolution and AI is a shape of intelligence grown by us. Will an intelligence grown or built by a hyper-intelligent AI be another such paradigm change? 
 - Is economic impact even still a meaningful notion is such worlds?
 - Is the creation of further ultra-intelligent closer to a cycle or to a cascade in the sense of the previous article? 
-- Is there a way to impose design constraints onto the second generation of machines?
+- Is there a way to impose design constraints onto the second generation of machines? 
 
 This is a good stage to raise worry about the ability to predict a system's abilities at time t+1 based on its abilities at time t.
