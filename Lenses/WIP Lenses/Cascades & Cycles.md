@@ -23,7 +23,7 @@ An article that explains positive feedback loops especially with regards to civi
 
 topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
-- How does instrumental convergence counter "just don't put in bad goals"?
+- What is AI'?
 - Why do implicit goals make systems less safe, not more?
 - What's the flaw in "human-AI teams will keep things safe"?
 - How does the video respond to the "overpopulation on Mars" analogy?
