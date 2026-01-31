@@ -26,6 +26,6 @@ topics to explore:
 - What is AI's neutron multiplication factor?
 - What are the properties that make something a cycle?
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
-- How does the video respond to the "overpopulation on Mars" analogy?
+- How applicable do ths?
 
 This is a good stage to surface any remaining skepticism they have. Engage with their doubts constructively rather than dismissing them.
