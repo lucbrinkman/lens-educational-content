@@ -6,7 +6,7 @@ source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machi
 
 #### Text
 content::
-The issue with an 
+The issue with sl
 
 #### Article-excerpt
 from:: "The survival of man depends"
