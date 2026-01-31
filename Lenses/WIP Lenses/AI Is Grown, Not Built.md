@@ -47,4 +47,4 @@ Discussion topics to explore:{>>Examples:
 
 Ask what they found surprising or new. Check if they can explain why modern AI systems are grown, rather than built in their own words—it's a key concept.
 
-`<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}
+The user has just answered the following question: `<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}
