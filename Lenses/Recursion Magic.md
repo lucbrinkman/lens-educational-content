@@ -14,7 +14,7 @@ to:: "recursive enough."
 
 #### Text
 content::
-If the leftover grain only produced exactly the same amount of leftover grain 
+If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, we 
 #### Chat: A more recursive mouse
 instructions::
 TLDR of what the user just read:
