@@ -12,4 +12,4 @@ Much of the world is dominated by positive feedback loops. The first bit of grai
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
 # Learning Outcome:
-source:: ![[../Fizzle or Foom]]
+source:: ![[../Learning OutcomeFizzle or Foom]]
