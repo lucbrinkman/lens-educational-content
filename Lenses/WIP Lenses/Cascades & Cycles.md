@@ -7,7 +7,7 @@ source:: [[../articles/attachments/cascades-cycles-insight]]
 
 #### Text
 content::
-Hold these ideas abou
+Hold these ideas about cybernetics in mind as you read the followig article 
 
 #### Article-excerpt
 from:: "**Cascades** are when"
