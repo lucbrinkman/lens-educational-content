@@ -8,6 +8,6 @@ discussion:
 id:: e0f8913a-66a2-4fc9-bbe8-bf72a95b003e
 ## Text
 content::
-Much of the world is dominated by positive feedback loops. The first bit of grain that was left over and 
+Much of the world is dominated by positive feedback loops. The first bit of grain that was left over and got re-planted 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
