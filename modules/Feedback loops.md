@@ -16,11 +16,3 @@ source:: ![[Lens Edu/Learning Outcomes/AI is a big and kinds scary deal]]
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
-# Uncategorized:
-## Lens:
-optional:: true
-source:: ![[../Lenses/Four Background Claims]]
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/Worst-Case Thinking]]
