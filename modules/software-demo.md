@@ -14,7 +14,7 @@ that the characteristics of this technology present to humanity.
 
 ## Lens:
 source::
-![[../Lenses/Cascades_and_cycles]]
+![[../Lenses/Speculations concerning the first ultraintelligent machine]]
 
 ## Lens:
 source::
