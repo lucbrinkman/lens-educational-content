@@ -45,6 +45,6 @@ Discussion topics to explore:{>>Examples:
 - The Grok "MechaHitler" incident is presented as evidence that even experts cannot control grown systems. What would count as counter-evidence? If a company successfully prevented such behaviors, would that prove grown systems can be controlled, or just that they got lucky this time?
 - If we accept that grown systems are fundamentally less understandable than engineered ones, what does this mean for safety approaches? Can we have confidence in systems we don't understand, or does the grown nature of AI require entirely different safety paradigms than traditional engineering?
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Ask what they found surprising or new. Check if they can explain why  in their own words—it's a key concept.
 
 `<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}
