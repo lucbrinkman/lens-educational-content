@@ -26,7 +26,7 @@ An article by I.J. Good speculating about the cognitive infrastructure of a thin
 
 topics to explore:
 - We are a shape of intelligence grown by evolution and AI is a shape of intelligence grown by us. Will an intelligence grown or built by a hyper-intelligent AI be another such paradigm change? 
-- What is AI's neutron multiplication factor?
+- C
 - What are the properties that make something a cycle?
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
 - How applicable do these concepts seem to artificial intelligence?
