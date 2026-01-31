@@ -8,7 +8,7 @@ title: AI Safety Course
 
 # Meeting: 1
 
-# Module: [[../modules/Feedback loops|Feedback loops]]
+# Module: [[../modules/Feedback loops]]
 
 # Module: [[../modules/coming-soon]]
 
