@@ -6,7 +6,7 @@ source:: [[../articles/cascades-cycles-insight]]
 
 #### Text
 content::
-Cybernetics is the study of systems whose output is used as their inputHold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
+Cybernetics is the study of systems whose output is used as their input: Investment produces Hold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
 
 #### Article-excerpt
 from:: "Cascades are when"
