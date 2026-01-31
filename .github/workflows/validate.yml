@@ -49,20 +49,20 @@ jobs:
           echo "sha=$CURRENT_SHA" >> $GITHUB_OUTPUT
 
       - name: Set up Python
-        if: github.event_name \!= 'schedule' || steps.check.outputs.should_run == 'true'
+        if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Validate lesson format
         id: validate
-        if: github.event_name \!= 'schedule' || steps.check.outputs.should_run == 'true'
+        if: github.event_name != 'schedule' || steps.check.outputs.should_run == 'true'
         run: |
           curl -sO https://raw.githubusercontent.com/lucbrinkman/ai-safety-course-platform/staging/core/modules/markdown_validator.py
           python markdown_validator.py ./modules/ ./courses/
 
       - name: Record validation result
-        if: (github.event_name \!= 'schedule' || steps.check.outputs.should_run == 'true') && always()
+        if: (github.event_name != 'schedule' || steps.check.outputs.should_run == 'true') && always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
