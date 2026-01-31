@@ -1,5 +1,5 @@
 ---
-id: 8a7ro9c4-p111-467w-2v2b-e08d10698767
+id: 8a7ro9c4-p111-467b-2v2b-e08d10698767
 ---
 ### Article: Speculations concerning the first ultraintelligent machine
 source:: [[../../articles/good-speculations-concerning-first-ultraintelligent-machine]]
